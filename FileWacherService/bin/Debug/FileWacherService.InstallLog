@@ -1,0 +1,598 @@
+﻿Installing assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Uninstalling assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Uninstalling assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Uninstalling assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Installing assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Restoring event log to previous state for source Service1.
+Uninstalling assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Uninstalling assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Uninstalling assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Restoring event log to previous state for source Service1.
+Uninstalling assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Removing EventLog source Service1.
+Warning: The source Service1 is not registered on the local machine.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Restoring event log to previous state for source Service1.
+Uninstalling assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Removing EventLog source Service1.
+Warning: The source Service1 is not registered on the local machine.
+Service Service1 is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Installing assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Restoring event log to previous state for source Service1.
+Uninstalling assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Uninstalling assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Uninstalling assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Installing assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Restoring event log to previous state for source Service1.
+Uninstalling assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Uninstalling assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Uninstalling assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Uninstalling assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Uninstalling assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Uninstalling assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Uninstalling assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Restoring event log to previous state for source Service1.
+Uninstalling assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Removing EventLog source Service1.
+Warning: The source Service1 is not registered on the local machine.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Uninstalling assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Removing EventLog source Service1.
+Warning: The source Service1 is not registered on the local machine.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Uninstalling assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Removing EventLog source Service1.
+Warning: The source Service1 is not registered on the local machine.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Uninstalling assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Uninstalling assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.InstallLog
+   assemblypath = D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe

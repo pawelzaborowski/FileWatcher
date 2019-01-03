@@ -1,0 +1,13 @@
+D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\log4net.config
+D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe.config
+D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.exe
+D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\FileWacherService.pdb
+D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\log4net.dll
+D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\bin\Debug\log4net.xml
+D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\obj\Debug\FileWacherService.csprojAssemblyReference.cache
+D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\obj\Debug\FileWacherService.ProjectInstaller.resources
+D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\obj\Debug\FileWacherService.csproj.GenerateResource.cache
+D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\obj\Debug\FileWacherService.csproj.CoreCompileInputs.cache
+D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\obj\Debug\FileWacherService.csproj.CopyComplete
+D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\obj\Debug\FileWacherService.exe
+D:\Pawel\Documents\PROGRAMM\C#\FileWacherService\FileWacherService\obj\Debug\FileWacherService.pdb

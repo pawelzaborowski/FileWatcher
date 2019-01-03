@@ -1,0 +1,916 @@
+2018-12-22 14:48:22,167 [4] INFO FileWacherService.Service1 - FileSystemWatcher Service started
+2018-12-22 14:48:32,190 [5] DEBUG FileWacherService.Service1 - Monitoring D:\Users\Pawel
+2018-12-22 14:48:42,190 [4] DEBUG FileWacherService.Service1 - Monitoring D:\Users\Pawel
+2018-12-22 14:56:46,786 [4] INFO FileWacherService.Service1 - FileSystemWatcher Service started
+2018-12-22 14:56:46,803 [4] DEBUG FileWacherService.Service1 - Monitoring1 D:\Users\Pawel
+2018-12-22 14:56:46,804 [7] DEBUG FileWacherService.Service1 - Monitoring D:\Users\Pawel
+2018-12-22 14:58:27,699 [4] INFO FileWacherService.Service1 - FileSystemWatcher Service started
+2018-12-22 14:58:27,717 [4] DEBUG FileWacherService.Service1 - Monitoring1 D:\Users\Pawel
+2018-12-22 14:58:27,717 [7] DEBUG FileWacherService.Service1 - Monitoring D:\Users\Pawel
+2018-12-22 14:58:43,896 [6] INFO FileWacherService.Service1 - Created D:\Users\Pawel\New Text Document.txt
+2018-12-22 14:58:43,897 [6] INFO FileWacherService.Service1 - Changed D:\Users\Pawel\New Text Document.txt
+2018-12-22 14:58:47,750 [9] INFO FileWacherService.Service1 - Changed D:\Users\Pawel\New Text Document.txt
+2018-12-22 14:58:47,750 [8] INFO FileWacherService.Service1 - Changed D:\Users\Pawel\New Text Document.txt
+2018-12-22 14:59:08,925 [8] INFO FileWacherService.Service1 - Renamed: New Text Document.txt to: D:\Users\Pawel\adddd.txt
+2018-12-22 14:59:17,251 [5] INFO FileWacherService.Service1 - Deleted D:\Users\Pawel\adddd.txt
+2018-12-22 14:59:29,198 [10] INFO FileWacherService.Service1 - Service stopped
+2018-12-26 21:33:40,371 INFO FileWacherService.Service1 - FileSystemWatcher Service started
+2018-12-26 21:33:40,554 DEBUG FileWacherService.Service1 - Monitoring D:\Users\Pawel
+2018-12-27 16:50:03,232 INFO FileWacherService.Service1 - Service stopped
+2018-12-27 20:28:39,437 INFO FileWacherService.Service1 - FileSystemWatcher Service started
+2018-12-27 20:28:39,459 DEBUG FileWacherService.Service1 - Monitoring D:\Users\Pawel
+2018-12-27 20:28:45,040 INFO FileWacherService.Service1 - Service stopped
+2018-12-27 20:30:19,656 INFO FileWacherService.Service1 - FileSystemWatcher Service started
+2018-12-27 20:33:57,976 INFO FileWacherService.Service1 - FileSystemWatcher Service started
+2018-12-27 20:33:57,994 DEBUG FileWacherService.Service1 - Monitoring D:\Users\Pawel
+2018-12-27 20:35:40,060 INFO FileWacherService.Service1 - Service stopped
+2018-12-27 20:35:48,607 INFO FileWacherService.Service1 - FileSystemWatcher Service started
+2018-12-27 20:36:38,575 INFO FileWacherService.Service1 - FileSystemWatcher Service started
+2018-12-27 20:36:38,592 ERROR FileWacherService.Service1 - Exception: Value cannot be null.
+Parameter name: counterData
+2018-12-27 20:38:01,736 INFO FileWacherService.Service1 - Service stopped
+2018-12-27 20:38:08,937 INFO FileWacherService.Service1 - FileSystemWatcher Service started
+2018-12-27 20:38:12,955 DEBUG FileWacherService.Service1 - Monitoring D:\Users\Pawel
+2018-12-27 20:46:38,515 INFO FileWacherService.Service1 - Service stopped
+2018-12-27 20:46:45,866 INFO FileWacherService.Service1 - FileSystemWatcher Service started
+2018-12-27 20:46:45,888 ERROR FileWacherService.Service1 - Exception: Cannot create Performance Category 'TestCategory' because it already exists.
+2018-12-27 20:47:44,804 INFO FileWacherService.Service1 - Service stopped
+2018-12-27 20:53:45,814 INFO FileWacherService.Service1 - FileSystemWatcher Service started
+2018-12-27 20:53:45,827 DEBUG FileWacherService.Service1 - Monitoring D:\Users\Pawel
+2018-12-27 20:54:29,889 INFO FileWacherService.Service1 - Service stopped
+2018-12-27 20:55:36,412 INFO FileWacherService.Service1 - FileSystemWatcher Service started
+2018-12-27 20:55:36,434 DEBUG FileWacherService.Service1 - Monitoring D:\Users\Pawel
+2018-12-27 20:56:25,208 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android
+2018-12-27 20:56:25,217 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\avd
+2018-12-27 20:56:25,233 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\avd\AndroidEmuator.avd
+2018-12-27 20:56:25,268 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\avd\Nexus_5X_API_26_x86.avd
+2018-12-27 20:56:25,288 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\avd\Nexus_5X_API_26_x86.avd\data
+2018-12-27 20:56:25,302 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\avd\Nexus_5X_API_26_x86.avd\data\app
+2018-12-27 20:56:25,302 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\avd\Nexus_5X_API_26_x86.avd\data\app\ApiDemos
+2018-12-27 20:56:25,336 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\avd\Nexus_5X_API_26_x86.avd\data\app\CubeLiveWallpapers
+2018-12-27 20:56:25,336 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\avd\Nexus_5X_API_26_x86.avd\data\app\GestureBuilder
+2018-12-27 20:56:25,336 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\avd\Nexus_5X_API_26_x86.avd\data\app\SmokeTest
+2018-12-27 20:56:25,336 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\avd\Nexus_5X_API_26_x86.avd\data\app\SmokeTestApp
+2018-12-27 20:56:25,336 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\avd\Nexus_5X_API_26_x86.avd\data\app\SoftKeyboard
+2018-12-27 20:56:25,336 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\avd\Nexus_5X_API_26_x86.avd\data\app\WidgetPreview
+2018-12-27 20:56:25,346 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\avd\Nexus_5X_API_26_x86.avd\data\benchmarktest
+2018-12-27 20:56:25,347 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\avd\Nexus_5X_API_26_x86.avd\data\benchmarktest\binderAddInts
+2018-12-27 20:56:25,347 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\avd\Nexus_5X_API_26_x86.avd\data\benchmarktest\libbinder_benchmark
+2018-12-27 20:56:25,347 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\avd\Nexus_5X_API_26_x86.avd\data\benchmarktest\libhwbinder_benchmark
+2018-12-27 20:56:25,347 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\avd\Nexus_5X_API_26_x86.avd\data\benchmarktest\libjavacore-benchmarks
+2018-12-27 20:56:25,347 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\avd\Nexus_5X_API_26_x86.avd\data\benchmarktest\netd_benchmark
+2018-12-27 20:56:25,347 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\avd\Nexus_5X_API_26_x86.avd\data\misc
+2018-12-27 20:56:25,347 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\avd\Nexus_5X_API_26_x86.avd\data\misc\adb
+2018-12-27 20:56:25,360 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\avd\Nexus_5X_API_26_x86.avd\data\nativetest
+2018-12-27 20:56:25,362 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\avd\Nexus_5X_API_26_x86.avd\data\nativetest\asan-test
+2018-12-27 20:56:25,362 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\avd\Nexus_5X_API_26_x86.avd\data\nativetest\bsdiff_unittest
+2018-12-27 20:56:25,362 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\avd\Nexus_5X_API_26_x86.avd\data\nativetest\clatd_microbenchmark
+2018-12-27 20:56:25,362 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\avd\Nexus_5X_API_26_x86.avd\data\nativetest\clatd_test
+2018-12-27 20:56:25,370 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\avd\Nexus_5X_API_26_x86.avd\data\nativetest\hwbinderThroughputTest
+2018-12-27 20:56:25,372 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\avd\Nexus_5X_API_26_x86.avd\data\nativetest\libhwbinder_latency
+2018-12-27 20:56:25,374 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\avd\Nexus_5X_API_26_x86.avd\data\nativetest\libjavacore-unit-tests
+2018-12-27 20:56:25,376 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\avd\Nexus_5X_API_26_x86.avd\data\nativetest\libweave_test
+2018-12-27 20:56:25,377 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\avd\Nexus_5X_API_26_x86.avd\data\nativetest\memory_replay_tests
+2018-12-27 20:56:25,378 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\avd\Nexus_5X_API_26_x86.avd\data\nativetest\netd_integration_test
+2018-12-27 20:56:25,378 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\avd\Nexus_5X_API_26_x86.avd\data\nativetest\nvram_hal_test
+2018-12-27 20:56:25,378 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\avd\Nexus_5X_API_26_x86.avd\data\nativetest\tcp_nuke_addr_test
+2018-12-27 20:56:25,378 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\avd\Nexus_5X_API_26_x86.avd\data\nativetest\tpm_manager_test
+2018-12-27 20:56:25,386 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\avd\Nexus_5X_API_26_x86.avd\data\nativetest\trunks_test
+2018-12-27 20:56:25,388 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\avd\Nexus_5X_API_26_x86.avd\data\nativetest\vold_tests
+2018-12-27 20:56:25,391 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\avd\VisualStudio_android-23_arm_phone.avd
+2018-12-27 20:56:25,410 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\avd\VisualStudio_android-23_arm_tablet.avd
+2018-12-27 20:56:25,410 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\avd\VisualStudio_android-23_x86_phone.avd
+2018-12-27 20:56:25,410 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\avd\VisualStudio_android-23_x86_tablet.avd
+2018-12-27 20:56:25,425 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\breakpad
+2018-12-27 20:56:25,458 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache
+2018-12-27 20:56:25,461 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\1e232564e1f129387b8493e2fe0829f0e8e60979
+2018-12-27 20:56:25,461 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\1e232564e1f129387b8493e2fe0829f0e8e60979\output
+2018-12-27 20:56:25,461 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\18df68facbf1d46dd17a059f3bc73a313d8f610e
+2018-12-27 20:56:25,461 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\18df68facbf1d46dd17a059f3bc73a313d8f610e\output
+2018-12-27 20:56:25,461 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\24ed978249f9e8fbe46b5a23143f35ca773c5552
+2018-12-27 20:56:25,475 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\24ed978249f9e8fbe46b5a23143f35ca773c5552\output
+2018-12-27 20:56:25,486 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\24ed978249f9e8fbe46b5a23143f35ca773c5552\output\aapt
+2018-12-27 20:56:25,488 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\24ed978249f9e8fbe46b5a23143f35ca773c5552\output\aidl
+2018-12-27 20:56:25,490 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\24ed978249f9e8fbe46b5a23143f35ca773c5552\output\assets
+2018-12-27 20:56:25,495 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\24ed978249f9e8fbe46b5a23143f35ca773c5552\output\jars
+2018-12-27 20:56:25,496 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\24ed978249f9e8fbe46b5a23143f35ca773c5552\output\res
+2018-12-27 20:56:25,499 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\51c1e9ed478d49404601c313639d313db189f1b3
+2018-12-27 20:56:25,518 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\51c1e9ed478d49404601c313639d313db189f1b3\output
+2018-12-27 20:56:25,520 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\51c1e9ed478d49404601c313639d313db189f1b3\output\aapt
+2018-12-27 20:56:25,521 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\51c1e9ed478d49404601c313639d313db189f1b3\output\aidl
+2018-12-27 20:56:25,523 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\51c1e9ed478d49404601c313639d313db189f1b3\output\assets
+2018-12-27 20:56:25,524 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\51c1e9ed478d49404601c313639d313db189f1b3\output\jars
+2018-12-27 20:56:25,525 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\51c1e9ed478d49404601c313639d313db189f1b3\output\res
+2018-12-27 20:56:25,526 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\72e6c19e435474567f98f5576f4d7d66a683ba56
+2018-12-27 20:56:25,526 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\72e6c19e435474567f98f5576f4d7d66a683ba56\output
+2018-12-27 20:56:25,526 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\72e6c19e435474567f98f5576f4d7d66a683ba56\output\aapt
+2018-12-27 20:56:25,526 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\72e6c19e435474567f98f5576f4d7d66a683ba56\output\aidl
+2018-12-27 20:56:25,526 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\72e6c19e435474567f98f5576f4d7d66a683ba56\output\assets
+2018-12-27 20:56:25,526 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\72e6c19e435474567f98f5576f4d7d66a683ba56\output\jars
+2018-12-27 20:56:25,541 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\72e6c19e435474567f98f5576f4d7d66a683ba56\output\res
+2018-12-27 20:56:25,543 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\86c0c6ccea654fbe382d648bd546239e6f62724e
+2018-12-27 20:56:25,544 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\86c0c6ccea654fbe382d648bd546239e6f62724e\output
+2018-12-27 20:56:25,544 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\94d3322d66b2a57d92752552b2fb439ee6172847
+2018-12-27 20:56:25,547 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\94d3322d66b2a57d92752552b2fb439ee6172847\output
+2018-12-27 20:56:25,559 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\122b8a7b152e39c603466cca164a51c68fcbaef9
+2018-12-27 20:56:25,584 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\122b8a7b152e39c603466cca164a51c68fcbaef9\output
+2018-12-27 20:56:25,586 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\122b8a7b152e39c603466cca164a51c68fcbaef9\output\aapt
+2018-12-27 20:56:25,586 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\122b8a7b152e39c603466cca164a51c68fcbaef9\output\aidl
+2018-12-27 20:56:25,587 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\122b8a7b152e39c603466cca164a51c68fcbaef9\output\assets
+2018-12-27 20:56:25,588 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\122b8a7b152e39c603466cca164a51c68fcbaef9\output\jars
+2018-12-27 20:56:25,589 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\122b8a7b152e39c603466cca164a51c68fcbaef9\output\res
+2018-12-27 20:56:25,589 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\122b8a7b152e39c603466cca164a51c68fcbaef9\output\res\values
+2018-12-27 20:56:25,590 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\333f1a4933ea427881f3603ce5dd253ae93f158f
+2018-12-27 20:56:25,604 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\333f1a4933ea427881f3603ce5dd253ae93f158f\output
+2018-12-27 20:56:25,605 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\333f1a4933ea427881f3603ce5dd253ae93f158f\output\aidl
+2018-12-27 20:56:25,605 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\333f1a4933ea427881f3603ce5dd253ae93f158f\output\aidl\android
+2018-12-27 20:56:25,605 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\333f1a4933ea427881f3603ce5dd253ae93f158f\output\aidl\android\support
+2018-12-27 20:56:25,607 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\333f1a4933ea427881f3603ce5dd253ae93f158f\output\aidl\android\support\v4
+2018-12-27 20:56:25,608 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\333f1a4933ea427881f3603ce5dd253ae93f158f\output\aidl\android\support\v4\os
+2018-12-27 20:56:25,609 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\333f1a4933ea427881f3603ce5dd253ae93f158f\output\assets
+2018-12-27 20:56:25,610 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\333f1a4933ea427881f3603ce5dd253ae93f158f\output\jars
+2018-12-27 20:56:25,611 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\333f1a4933ea427881f3603ce5dd253ae93f158f\output\jni
+2018-12-27 20:56:25,611 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\333f1a4933ea427881f3603ce5dd253ae93f158f\output\libs
+2018-12-27 20:56:25,613 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\333f1a4933ea427881f3603ce5dd253ae93f158f\output\res
+2018-12-27 20:56:25,615 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\774a2a19cab0a5c41130c7d8ebdfc077e40b030f
+2018-12-27 20:56:25,629 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\774a2a19cab0a5c41130c7d8ebdfc077e40b030f\output
+2018-12-27 20:56:25,630 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\774a2a19cab0a5c41130c7d8ebdfc077e40b030f\output\aidl
+2018-12-27 20:56:25,630 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\774a2a19cab0a5c41130c7d8ebdfc077e40b030f\output\assets
+2018-12-27 20:56:25,631 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\774a2a19cab0a5c41130c7d8ebdfc077e40b030f\output\jars
+2018-12-27 20:56:25,632 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\774a2a19cab0a5c41130c7d8ebdfc077e40b030f\output\jni
+2018-12-27 20:56:25,633 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\774a2a19cab0a5c41130c7d8ebdfc077e40b030f\output\libs
+2018-12-27 20:56:25,633 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\774a2a19cab0a5c41130c7d8ebdfc077e40b030f\output\res
+2018-12-27 20:56:25,634 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925
+2018-12-27 20:56:25,641 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output
+2018-12-27 20:56:25,643 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\aidl
+2018-12-27 20:56:25,644 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\assets
+2018-12-27 20:56:25,645 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\jars
+2018-12-27 20:56:25,646 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\jni
+2018-12-27 20:56:25,647 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\libs
+2018-12-27 20:56:25,682 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res
+2018-12-27 20:56:25,693 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\anim
+2018-12-27 20:56:25,709 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\color
+2018-12-27 20:56:25,723 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\color-v11
+2018-12-27 20:56:25,729 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\color-v23
+2018-12-27 20:56:25,733 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\drawable
+2018-12-27 20:56:25,794 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\drawable-hdpi-v4
+2018-12-27 20:56:25,889 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\drawable-ldrtl-hdpi-v17
+2018-12-27 20:56:25,903 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\drawable-ldrtl-mdpi-v17
+2018-12-27 20:56:25,905 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\drawable-ldrtl-xhdpi-v17
+2018-12-27 20:56:25,922 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\drawable-ldrtl-xxhdpi-v17
+2018-12-27 20:56:25,926 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\drawable-ldrtl-xxxhdpi-v17
+2018-12-27 20:56:25,955 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\drawable-mdpi-v4
+2018-12-27 20:56:25,975 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\drawable-v21
+2018-12-27 20:56:25,975 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\drawable-v23
+2018-12-27 20:56:26,009 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\drawable-xhdpi-v4
+2018-12-27 20:56:26,032 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\drawable-xxhdpi-v4
+2018-12-27 20:56:26,048 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\drawable-xxxhdpi-v4
+2018-12-27 20:56:26,056 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\layout
+2018-12-27 20:56:26,070 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\layout-v11
+2018-12-27 20:56:26,071 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\layout-v16
+2018-12-27 20:56:26,080 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\layout-v21
+2018-12-27 20:56:26,080 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values
+2018-12-27 20:56:26,080 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-af
+2018-12-27 20:56:26,080 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-am
+2018-12-27 20:56:26,089 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-ar
+2018-12-27 20:56:26,089 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-az-rAZ
+2018-12-27 20:56:26,089 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-b+sr+Latn
+2018-12-27 20:56:26,095 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-be-rBY
+2018-12-27 20:56:26,096 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-bg
+2018-12-27 20:56:26,096 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-bn-rBD
+2018-12-27 20:56:26,096 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-bs-rBA
+2018-12-27 20:56:26,096 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-ca
+2018-12-27 20:56:26,096 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-cs
+2018-12-27 20:56:26,096 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-da
+2018-12-27 20:56:26,096 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-de
+2018-12-27 20:56:26,096 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-el
+2018-12-27 20:56:26,111 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-en-rAU
+2018-12-27 20:56:26,112 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-en-rGB
+2018-12-27 20:56:26,112 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-en-rIN
+2018-12-27 20:56:26,112 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-es
+2018-12-27 20:56:26,112 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-es-rUS
+2018-12-27 20:56:26,117 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-et-rEE
+2018-12-27 20:56:26,118 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-eu-rES
+2018-12-27 20:56:26,118 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-fa
+2018-12-27 20:56:26,118 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-fi
+2018-12-27 20:56:26,118 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-fr
+2018-12-27 20:56:26,118 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-fr-rCA
+2018-12-27 20:56:26,118 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-gl-rES
+2018-12-27 20:56:26,125 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-gu-rIN
+2018-12-27 20:56:26,126 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-h720dp-v13
+2018-12-27 20:56:26,126 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-hdpi-v4
+2018-12-27 20:56:26,126 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-hi
+2018-12-27 20:56:26,126 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-hr
+2018-12-27 20:56:26,126 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-hu
+2018-12-27 20:56:26,126 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-hy-rAM
+2018-12-27 20:56:26,126 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-in
+2018-12-27 20:56:26,134 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-is-rIS
+2018-12-27 20:56:26,135 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-it
+2018-12-27 20:56:26,135 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-iw
+2018-12-27 20:56:26,135 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-ja
+2018-12-27 20:56:26,135 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-ka-rGE
+2018-12-27 20:56:26,141 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-kk-rKZ
+2018-12-27 20:56:26,143 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-km-rKH
+2018-12-27 20:56:26,143 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-kn-rIN
+2018-12-27 20:56:26,143 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-ko
+2018-12-27 20:56:26,143 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-ky-rKG
+2018-12-27 20:56:26,143 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-land
+2018-12-27 20:56:26,143 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-large-v4
+2018-12-27 20:56:26,149 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-ldltr-v21
+2018-12-27 20:56:26,150 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-lo-rLA
+2018-12-27 20:56:26,150 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-lt
+2018-12-27 20:56:26,150 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-lv
+2018-12-27 20:56:26,150 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-mk-rMK
+2018-12-27 20:56:26,150 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-ml-rIN
+2018-12-27 20:56:26,157 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-mn-rMN
+2018-12-27 20:56:26,158 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-mr-rIN
+2018-12-27 20:56:26,158 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-ms-rMY
+2018-12-27 20:56:26,161 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-my-rMM
+2018-12-27 20:56:26,162 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-nb
+2018-12-27 20:56:26,162 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-ne-rNP
+2018-12-27 20:56:26,162 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-night-v8
+2018-12-27 20:56:26,165 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-nl
+2018-12-27 20:56:26,173 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-pa-rIN
+2018-12-27 20:56:26,174 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-pl
+2018-12-27 20:56:26,174 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-port
+2018-12-27 20:56:26,174 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-pt
+2018-12-27 20:56:26,174 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-pt-rBR
+2018-12-27 20:56:26,174 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-pt-rPT
+2018-12-27 20:56:26,174 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-ro
+2018-12-27 20:56:26,174 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-ru
+2018-12-27 20:56:26,174 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-si-rLK
+2018-12-27 20:56:26,174 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-sk
+2018-12-27 20:56:26,174 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-sl
+2018-12-27 20:56:26,174 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-sq-rAL
+2018-12-27 20:56:26,174 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-sr
+2018-12-27 20:56:26,174 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-sv
+2018-12-27 20:56:26,189 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-sw
+2018-12-27 20:56:26,191 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-sw600dp-v13
+2018-12-27 20:56:26,193 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-ta-rIN
+2018-12-27 20:56:26,194 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-te-rIN
+2018-12-27 20:56:26,194 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-th
+2018-12-27 20:56:26,194 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-tl
+2018-12-27 20:56:26,197 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-tr
+2018-12-27 20:56:26,198 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-uk
+2018-12-27 20:56:26,198 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-ur-rPK
+2018-12-27 20:56:26,198 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-uz-rUZ
+2018-12-27 20:56:26,198 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-v11
+2018-12-27 20:56:26,198 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-v12
+2018-12-27 20:56:26,198 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-v13
+2018-12-27 20:56:26,206 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-v14
+2018-12-27 20:56:26,207 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-v16
+2018-12-27 20:56:26,207 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-v17
+2018-12-27 20:56:26,207 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-v18
+2018-12-27 20:56:26,207 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-v21
+2018-12-27 20:56:26,207 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-v22
+2018-12-27 20:56:26,207 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-v23
+2018-12-27 20:56:26,214 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-v24
+2018-12-27 20:56:26,214 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-v25
+2018-12-27 20:56:26,214 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-vi
+2018-12-27 20:56:26,214 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-xlarge-v4
+2018-12-27 20:56:26,214 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-zh-rCN
+2018-12-27 20:56:26,214 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-zh-rHK
+2018-12-27 20:56:26,214 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-zh-rTW
+2018-12-27 20:56:26,222 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\5775ab582bcf23684219abed97f1f02c82aca925\output\res\values-zu
+2018-12-27 20:56:26,223 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\37014c6e56ffa525fcda5ae2ea7307d81af3c3e2
+2018-12-27 20:56:26,223 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\37014c6e56ffa525fcda5ae2ea7307d81af3c3e2\output
+2018-12-27 20:56:26,223 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\1461567db3b6794b678b38cb3676daedf14d11b7
+2018-12-27 20:56:26,290 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\1461567db3b6794b678b38cb3676daedf14d11b7\output
+2018-12-27 20:56:26,290 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\1461567db3b6794b678b38cb3676daedf14d11b7\output\aidl
+2018-12-27 20:56:26,290 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\1461567db3b6794b678b38cb3676daedf14d11b7\output\aidl\android
+2018-12-27 20:56:26,290 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\1461567db3b6794b678b38cb3676daedf14d11b7\output\aidl\android\support
+2018-12-27 20:56:26,290 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\1461567db3b6794b678b38cb3676daedf14d11b7\output\aidl\android\support\v4
+2018-12-27 20:56:26,290 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\1461567db3b6794b678b38cb3676daedf14d11b7\output\aidl\android\support\v4\media
+2018-12-27 20:56:26,308 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\1461567db3b6794b678b38cb3676daedf14d11b7\output\assets
+2018-12-27 20:56:26,308 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\1461567db3b6794b678b38cb3676daedf14d11b7\output\jars
+2018-12-27 20:56:26,308 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\1461567db3b6794b678b38cb3676daedf14d11b7\output\jni
+2018-12-27 20:56:26,308 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\1461567db3b6794b678b38cb3676daedf14d11b7\output\libs
+2018-12-27 20:56:26,308 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\1461567db3b6794b678b38cb3676daedf14d11b7\output\res
+2018-12-27 20:56:26,326 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\a2f748784a8e4e00c493dcb7a014903166998da6
+2018-12-27 20:56:26,344 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\a2f748784a8e4e00c493dcb7a014903166998da6\output
+2018-12-27 20:56:26,344 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\a2f748784a8e4e00c493dcb7a014903166998da6\output\aidl
+2018-12-27 20:56:26,344 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\a2f748784a8e4e00c493dcb7a014903166998da6\output\assets
+2018-12-27 20:56:26,344 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\a2f748784a8e4e00c493dcb7a014903166998da6\output\jars
+2018-12-27 20:56:26,344 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\a2f748784a8e4e00c493dcb7a014903166998da6\output\jni
+2018-12-27 20:56:26,344 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\a2f748784a8e4e00c493dcb7a014903166998da6\output\libs
+2018-12-27 20:56:26,344 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\a2f748784a8e4e00c493dcb7a014903166998da6\output\res
+2018-12-27 20:56:26,344 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\ac97ffeeb731672dd03bb5937a2459bf33e2ea7f
+2018-12-27 20:56:26,362 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\ac97ffeeb731672dd03bb5937a2459bf33e2ea7f\output
+2018-12-27 20:56:26,363 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\ac97ffeeb731672dd03bb5937a2459bf33e2ea7f\output\aidl
+2018-12-27 20:56:26,363 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\ac97ffeeb731672dd03bb5937a2459bf33e2ea7f\output\assets
+2018-12-27 20:56:26,363 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\ac97ffeeb731672dd03bb5937a2459bf33e2ea7f\output\jars
+2018-12-27 20:56:26,363 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\ac97ffeeb731672dd03bb5937a2459bf33e2ea7f\output\jni
+2018-12-27 20:56:26,363 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\ac97ffeeb731672dd03bb5937a2459bf33e2ea7f\output\libs
+2018-12-27 20:56:26,363 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\ac97ffeeb731672dd03bb5937a2459bf33e2ea7f\output\res
+2018-12-27 20:56:26,363 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\b17f46aaded3e271ead1886fc7a9259ea42d95cf
+2018-12-27 20:56:26,380 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\b17f46aaded3e271ead1886fc7a9259ea42d95cf\output
+2018-12-27 20:56:26,381 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\b17f46aaded3e271ead1886fc7a9259ea42d95cf\output\aapt
+2018-12-27 20:56:26,381 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\b17f46aaded3e271ead1886fc7a9259ea42d95cf\output\aidl
+2018-12-27 20:56:26,385 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\b17f46aaded3e271ead1886fc7a9259ea42d95cf\output\assets
+2018-12-27 20:56:26,385 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\b17f46aaded3e271ead1886fc7a9259ea42d95cf\output\jars
+2018-12-27 20:56:26,389 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\b17f46aaded3e271ead1886fc7a9259ea42d95cf\output\res
+2018-12-27 20:56:26,390 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\c48a65e987b2523ee08a66c29219da016c39ddc6
+2018-12-27 20:56:26,390 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\c48a65e987b2523ee08a66c29219da016c39ddc6\output
+2018-12-27 20:56:26,394 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\c811badd8b2325f02ca3764edb2e36958f5cecfc
+2018-12-27 20:56:26,395 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\c811badd8b2325f02ca3764edb2e36958f5cecfc\output
+2018-12-27 20:56:26,395 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\c92984f941a3e84d31287609bad2ecffbcce25a9
+2018-12-27 20:56:26,395 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\c92984f941a3e84d31287609bad2ecffbcce25a9\output
+2018-12-27 20:56:26,395 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\c92984f941a3e84d31287609bad2ecffbcce25a9\output\aidl
+2018-12-27 20:56:26,395 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\c92984f941a3e84d31287609bad2ecffbcce25a9\output\assets
+2018-12-27 20:56:26,411 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\c92984f941a3e84d31287609bad2ecffbcce25a9\output\jars
+2018-12-27 20:56:26,412 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\c92984f941a3e84d31287609bad2ecffbcce25a9\output\jni
+2018-12-27 20:56:26,412 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\c92984f941a3e84d31287609bad2ecffbcce25a9\output\libs
+2018-12-27 20:56:26,412 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\c92984f941a3e84d31287609bad2ecffbcce25a9\output\res
+2018-12-27 20:56:26,412 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\cac98698e6fe10e78c4865f46849c880d482040e
+2018-12-27 20:56:26,412 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\cac98698e6fe10e78c4865f46849c880d482040e\output
+2018-12-27 20:56:26,412 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\d7f432707c8ba36bd95c2c0c6439b8c43d690890
+2018-12-27 20:56:26,432 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\d7f432707c8ba36bd95c2c0c6439b8c43d690890\output
+2018-12-27 20:56:26,432 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\d7f432707c8ba36bd95c2c0c6439b8c43d690890\output\aidl
+2018-12-27 20:56:26,432 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\d7f432707c8ba36bd95c2c0c6439b8c43d690890\output\assets
+2018-12-27 20:56:26,432 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\d7f432707c8ba36bd95c2c0c6439b8c43d690890\output\jars
+2018-12-27 20:56:26,440 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\d7f432707c8ba36bd95c2c0c6439b8c43d690890\output\jni
+2018-12-27 20:56:26,440 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\d7f432707c8ba36bd95c2c0c6439b8c43d690890\output\libs
+2018-12-27 20:56:26,440 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\d7f432707c8ba36bd95c2c0c6439b8c43d690890\output\res
+2018-12-27 20:56:26,440 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\eeca15e6933c9c3d82c248be404abc280dc248d9
+2018-12-27 20:56:26,440 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\eeca15e6933c9c3d82c248be404abc280dc248d9\output
+2018-12-27 20:56:26,440 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\f267ad6934f16a132e69347ea9df2a4116ea777d
+2018-12-27 20:56:26,458 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\f267ad6934f16a132e69347ea9df2a4116ea777d\output
+2018-12-27 20:56:26,458 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\f267ad6934f16a132e69347ea9df2a4116ea777d\output\aidl
+2018-12-27 20:56:26,458 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\f267ad6934f16a132e69347ea9df2a4116ea777d\output\assets
+2018-12-27 20:56:26,458 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\f267ad6934f16a132e69347ea9df2a4116ea777d\output\jars
+2018-12-27 20:56:26,458 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\f267ad6934f16a132e69347ea9df2a4116ea777d\output\jni
+2018-12-27 20:56:26,473 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\f267ad6934f16a132e69347ea9df2a4116ea777d\output\libs
+2018-12-27 20:56:26,475 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\f267ad6934f16a132e69347ea9df2a4116ea777d\output\res
+2018-12-27 20:56:26,475 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\f9879c042a90298cfc3f48bca670300ec132ff36
+2018-12-27 20:56:26,475 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\build-cache\f9879c042a90298cfc3f48bca670300ec132ff36\output
+2018-12-27 20:56:26,506 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\cache
+2018-12-27 20:56:26,506 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\studio
+2018-12-27 20:56:26,512 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.android\studio\installer
+2018-12-27 20:56:26,524 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle
+2018-12-27 20:56:26,524 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches
+2018-12-27 20:56:26,529 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1
+2018-12-27 20:56:26,529 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\generated-gradle-jars
+2018-12-27 20:56:26,529 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\plugin-resolution
+2018-12-27 20:56:26,547 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts
+2018-12-27 20:56:26,547 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts\2qrcik9j52k4tbnis31oobmme
+2018-12-27 20:56:26,547 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts\2qrcik9j52k4tbnis31oobmme\cp_proj
+2018-12-27 20:56:26,564 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts\2qrcik9j52k4tbnis31oobmme\cp_proj\cp_proj57408229
+2018-12-27 20:56:26,564 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts\2qrcik9j52k4tbnis31oobmme\cp_proj\cp_proj57408229\classes
+2018-12-27 20:56:26,564 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts\2qrcik9j52k4tbnis31oobmme\cp_proj\cp_proj57408229\metadata
+2018-12-27 20:56:26,581 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts\2qrcik9j52k4tbnis31oobmme\proj
+2018-12-27 20:56:26,595 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts\2qrcik9j52k4tbnis31oobmme\proj\proj5858849412699847240
+2018-12-27 20:56:26,612 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts\2qrcik9j52k4tbnis31oobmme\proj\proj5858849412699847240\classes
+2018-12-27 20:56:26,612 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts\2qrcik9j52k4tbnis31oobmme\proj\proj5858849412699847240\metadata
+2018-12-27 20:56:26,612 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts\4vfvuzdf00x5tz5emnl6h4wc6
+2018-12-27 20:56:26,612 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts\4vfvuzdf00x5tz5emnl6h4wc6\cp_init
+2018-12-27 20:56:26,628 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts\4vfvuzdf00x5tz5emnl6h4wc6\cp_init\cp_init57408229
+2018-12-27 20:56:26,630 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts\4vfvuzdf00x5tz5emnl6h4wc6\cp_init\cp_init57408229\classes
+2018-12-27 20:56:26,631 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts\4vfvuzdf00x5tz5emnl6h4wc6\cp_init\cp_init57408229\metadata
+2018-12-27 20:56:26,632 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts\4vfvuzdf00x5tz5emnl6h4wc6\init
+2018-12-27 20:56:26,633 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts\4vfvuzdf00x5tz5emnl6h4wc6\init\init-182508457675484770
+2018-12-27 20:56:26,635 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts\4vfvuzdf00x5tz5emnl6h4wc6\init\init-182508457675484770\classes
+2018-12-27 20:56:26,636 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts\4vfvuzdf00x5tz5emnl6h4wc6\init\init-182508457675484770\metadata
+2018-12-27 20:56:26,637 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts\6gzhnx727l0sgaoiz1eu7ormn
+2018-12-27 20:56:26,637 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts\6gzhnx727l0sgaoiz1eu7ormn\cp_proj
+2018-12-27 20:56:26,650 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts\6gzhnx727l0sgaoiz1eu7ormn\cp_proj\cp_proj57408229
+2018-12-27 20:56:26,650 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts\6gzhnx727l0sgaoiz1eu7ormn\cp_proj\cp_proj57408229\classes
+2018-12-27 20:56:26,651 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts\6gzhnx727l0sgaoiz1eu7ormn\cp_proj\cp_proj57408229\metadata
+2018-12-27 20:56:26,651 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts\6gzhnx727l0sgaoiz1eu7ormn\proj
+2018-12-27 20:56:26,651 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts\6gzhnx727l0sgaoiz1eu7ormn\proj\proj434152295564399234
+2018-12-27 20:56:26,657 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts\6gzhnx727l0sgaoiz1eu7ormn\proj\proj434152295564399234\classes
+2018-12-27 20:56:26,657 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts\6gzhnx727l0sgaoiz1eu7ormn\proj\proj434152295564399234\metadata
+2018-12-27 20:56:26,660 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts\9ejwtyixtds2dlx9q4hqm4iap
+2018-12-27 20:56:26,660 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts\9ejwtyixtds2dlx9q4hqm4iap\cp_settings
+2018-12-27 20:56:26,664 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts\9ejwtyixtds2dlx9q4hqm4iap\cp_settings\cp_settings57408229
+2018-12-27 20:56:26,665 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts\9ejwtyixtds2dlx9q4hqm4iap\cp_settings\cp_settings57408229\classes
+2018-12-27 20:56:26,666 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts\9ejwtyixtds2dlx9q4hqm4iap\cp_settings\cp_settings57408229\metadata
+2018-12-27 20:56:26,667 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts\9ejwtyixtds2dlx9q4hqm4iap\settings
+2018-12-27 20:56:26,677 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts\9ejwtyixtds2dlx9q4hqm4iap\settings\settings57408229
+2018-12-27 20:56:26,681 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts\9ejwtyixtds2dlx9q4hqm4iap\settings\settings57408229\classes
+2018-12-27 20:56:26,682 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts\9ejwtyixtds2dlx9q4hqm4iap\settings\settings57408229\metadata
+2018-12-27 20:56:26,682 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts\69v7d8med8bdsqldauvjh5m1t
+2018-12-27 20:56:26,684 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts\69v7d8med8bdsqldauvjh5m1t\cp_proj
+2018-12-27 20:56:26,717 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts\69v7d8med8bdsqldauvjh5m1t\cp_proj\cp_proj57408229
+2018-12-27 20:56:26,719 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts\69v7d8med8bdsqldauvjh5m1t\cp_proj\cp_proj57408229\classes
+2018-12-27 20:56:26,725 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts\69v7d8med8bdsqldauvjh5m1t\cp_proj\cp_proj57408229\metadata
+2018-12-27 20:56:26,725 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts\69v7d8med8bdsqldauvjh5m1t\proj
+2018-12-27 20:56:26,726 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts\69v7d8med8bdsqldauvjh5m1t\proj\proj434152295564399234
+2018-12-27 20:56:26,727 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts\69v7d8med8bdsqldauvjh5m1t\proj\proj434152295564399234\classes
+2018-12-27 20:56:26,727 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts\69v7d8med8bdsqldauvjh5m1t\proj\proj434152295564399234\metadata
+2018-12-27 20:56:26,729 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts\cpynsrk1rc7xpk272tfw0h5hq
+2018-12-27 20:56:26,730 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts\cpynsrk1rc7xpk272tfw0h5hq\cp_init
+2018-12-27 20:56:26,736 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts\cpynsrk1rc7xpk272tfw0h5hq\cp_init\cp_init57408229
+2018-12-27 20:56:26,737 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts\cpynsrk1rc7xpk272tfw0h5hq\cp_init\cp_init57408229\classes
+2018-12-27 20:56:26,739 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts\cpynsrk1rc7xpk272tfw0h5hq\cp_init\cp_init57408229\metadata
+2018-12-27 20:56:26,739 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts\cpynsrk1rc7xpk272tfw0h5hq\init
+2018-12-27 20:56:26,750 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts\cpynsrk1rc7xpk272tfw0h5hq\init\init-3765145142309932589
+2018-12-27 20:56:26,755 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts\cpynsrk1rc7xpk272tfw0h5hq\init\init-3765145142309932589\classes
+2018-12-27 20:56:26,756 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts\cpynsrk1rc7xpk272tfw0h5hq\init\init-3765145142309932589\metadata
+2018-12-27 20:56:26,757 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts\d2xdrsmnf98iornj9ykp8ytl5
+2018-12-27 20:56:26,757 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts\d2xdrsmnf98iornj9ykp8ytl5\cp_proj
+2018-12-27 20:56:26,759 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts\d2xdrsmnf98iornj9ykp8ytl5\cp_proj\cp_proj57408229
+2018-12-27 20:56:26,761 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts\d2xdrsmnf98iornj9ykp8ytl5\cp_proj\cp_proj57408229\classes
+2018-12-27 20:56:26,763 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts\d2xdrsmnf98iornj9ykp8ytl5\cp_proj\cp_proj57408229\metadata
+2018-12-27 20:56:26,763 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts\d2xdrsmnf98iornj9ykp8ytl5\proj
+2018-12-27 20:56:26,766 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts\d2xdrsmnf98iornj9ykp8ytl5\proj\proj5858849412699847240
+2018-12-27 20:56:26,766 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts\d2xdrsmnf98iornj9ykp8ytl5\proj\proj5858849412699847240\classes
+2018-12-27 20:56:26,767 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts\d2xdrsmnf98iornj9ykp8ytl5\proj\proj5858849412699847240\metadata
+2018-12-27 20:56:26,773 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts-remapped
+2018-12-27 20:56:26,774 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts-remapped\build_76yimtcqi69wtc45s41ucy35l
+2018-12-27 20:56:26,776 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts-remapped\build_76yimtcqi69wtc45s41ucy35l\2qrcik9j52k4tbnis31oobmme
+2018-12-27 20:56:26,786 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts-remapped\build_76yimtcqi69wtc45s41ucy35l\2qrcik9j52k4tbnis31oobmme\cp_proj57408229
+2018-12-27 20:56:26,787 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts-remapped\build_76yimtcqi69wtc45s41ucy35l\2qrcik9j52k4tbnis31oobmme\cp_proj57408229\classes
+2018-12-27 20:56:26,789 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts-remapped\build_76yimtcqi69wtc45s41ucy35l\2qrcik9j52k4tbnis31oobmme\cp_proj57408229\metadata
+2018-12-27 20:56:26,790 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts-remapped\build_76yimtcqi69wtc45s41ucy35l\2qrcik9j52k4tbnis31oobmme\proj5858849412699847240
+2018-12-27 20:56:26,791 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts-remapped\build_76yimtcqi69wtc45s41ucy35l\2qrcik9j52k4tbnis31oobmme\proj5858849412699847240\classes
+2018-12-27 20:56:26,793 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts-remapped\build_76yimtcqi69wtc45s41ucy35l\2qrcik9j52k4tbnis31oobmme\proj5858849412699847240\metadata
+2018-12-27 20:56:26,793 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts-remapped\build_654pqma679ktg84lfforkgewy
+2018-12-27 20:56:26,793 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts-remapped\build_654pqma679ktg84lfforkgewy\6gzhnx727l0sgaoiz1eu7ormn
+2018-12-27 20:56:26,807 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts-remapped\build_654pqma679ktg84lfforkgewy\6gzhnx727l0sgaoiz1eu7ormn\cp_proj57408229
+2018-12-27 20:56:26,807 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts-remapped\build_654pqma679ktg84lfforkgewy\6gzhnx727l0sgaoiz1eu7ormn\cp_proj57408229\classes
+2018-12-27 20:56:26,858 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts-remapped\build_654pqma679ktg84lfforkgewy\6gzhnx727l0sgaoiz1eu7ormn\cp_proj57408229\metadata
+2018-12-27 20:56:26,858 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts-remapped\build_654pqma679ktg84lfforkgewy\6gzhnx727l0sgaoiz1eu7ormn\proj434152295564399234
+2018-12-27 20:56:26,868 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts-remapped\build_654pqma679ktg84lfforkgewy\6gzhnx727l0sgaoiz1eu7ormn\proj434152295564399234\classes
+2018-12-27 20:56:26,869 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts-remapped\build_654pqma679ktg84lfforkgewy\6gzhnx727l0sgaoiz1eu7ormn\proj434152295564399234\metadata
+2018-12-27 20:56:26,869 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts-remapped\build_ctdyy5ba9qvd64ukudrtvayko
+2018-12-27 20:56:26,873 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts-remapped\build_ctdyy5ba9qvd64ukudrtvayko\d2xdrsmnf98iornj9ykp8ytl5
+2018-12-27 20:56:26,873 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts-remapped\build_ctdyy5ba9qvd64ukudrtvayko\d2xdrsmnf98iornj9ykp8ytl5\cp_proj57408229
+2018-12-27 20:56:26,879 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts-remapped\build_ctdyy5ba9qvd64ukudrtvayko\d2xdrsmnf98iornj9ykp8ytl5\cp_proj57408229\classes
+2018-12-27 20:56:26,880 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts-remapped\build_ctdyy5ba9qvd64ukudrtvayko\d2xdrsmnf98iornj9ykp8ytl5\cp_proj57408229\metadata
+2018-12-27 20:56:26,883 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts-remapped\build_ctdyy5ba9qvd64ukudrtvayko\d2xdrsmnf98iornj9ykp8ytl5\proj5858849412699847240
+2018-12-27 20:56:26,884 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts-remapped\build_ctdyy5ba9qvd64ukudrtvayko\d2xdrsmnf98iornj9ykp8ytl5\proj5858849412699847240\classes
+2018-12-27 20:56:26,884 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts-remapped\build_ctdyy5ba9qvd64ukudrtvayko\d2xdrsmnf98iornj9ykp8ytl5\proj5858849412699847240\metadata
+2018-12-27 20:56:26,884 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts-remapped\build_cz13wz9bcrx7dje9xn74mwj5a
+2018-12-27 20:56:26,891 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts-remapped\build_cz13wz9bcrx7dje9xn74mwj5a\69v7d8med8bdsqldauvjh5m1t
+2018-12-27 20:56:26,894 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts-remapped\build_cz13wz9bcrx7dje9xn74mwj5a\69v7d8med8bdsqldauvjh5m1t\cp_proj57408229
+2018-12-27 20:56:26,895 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts-remapped\build_cz13wz9bcrx7dje9xn74mwj5a\69v7d8med8bdsqldauvjh5m1t\cp_proj57408229\classes
+2018-12-27 20:56:26,895 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts-remapped\build_cz13wz9bcrx7dje9xn74mwj5a\69v7d8med8bdsqldauvjh5m1t\cp_proj57408229\metadata
+2018-12-27 20:56:26,895 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts-remapped\build_cz13wz9bcrx7dje9xn74mwj5a\69v7d8med8bdsqldauvjh5m1t\proj434152295564399234
+2018-12-27 20:56:26,902 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts-remapped\build_cz13wz9bcrx7dje9xn74mwj5a\69v7d8med8bdsqldauvjh5m1t\proj434152295564399234\classes
+2018-12-27 20:56:26,903 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts-remapped\build_cz13wz9bcrx7dje9xn74mwj5a\69v7d8med8bdsqldauvjh5m1t\proj434152295564399234\metadata
+2018-12-27 20:56:26,906 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts-remapped\ijinit_a45cqemlieju11areulnyh5n
+2018-12-27 20:56:26,908 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts-remapped\ijinit_a45cqemlieju11areulnyh5n\4vfvuzdf00x5tz5emnl6h4wc6
+2018-12-27 20:56:26,908 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts-remapped\ijinit_a45cqemlieju11areulnyh5n\4vfvuzdf00x5tz5emnl6h4wc6\cp_init57408229
+2018-12-27 20:56:26,913 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts-remapped\ijinit_a45cqemlieju11areulnyh5n\4vfvuzdf00x5tz5emnl6h4wc6\cp_init57408229\classes
+2018-12-27 20:56:26,914 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts-remapped\ijinit_a45cqemlieju11areulnyh5n\4vfvuzdf00x5tz5emnl6h4wc6\cp_init57408229\metadata
+2018-12-27 20:56:26,914 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts-remapped\ijinit_a45cqemlieju11areulnyh5n\4vfvuzdf00x5tz5emnl6h4wc6\init-182508457675484770
+2018-12-27 20:56:26,919 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts-remapped\ijinit_a45cqemlieju11areulnyh5n\4vfvuzdf00x5tz5emnl6h4wc6\init-182508457675484770\classes
+2018-12-27 20:56:26,920 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts-remapped\ijinit_a45cqemlieju11areulnyh5n\4vfvuzdf00x5tz5emnl6h4wc6\init-182508457675484770\metadata
+2018-12-27 20:56:26,920 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts-remapped\ijinit_a45cqemlieju11areulnyh5n\cpynsrk1rc7xpk272tfw0h5hq
+2018-12-27 20:56:26,938 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts-remapped\ijinit_a45cqemlieju11areulnyh5n\cpynsrk1rc7xpk272tfw0h5hq\cp_init57408229
+2018-12-27 20:56:26,938 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts-remapped\ijinit_a45cqemlieju11areulnyh5n\cpynsrk1rc7xpk272tfw0h5hq\cp_init57408229\classes
+2018-12-27 20:56:26,938 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts-remapped\ijinit_a45cqemlieju11areulnyh5n\cpynsrk1rc7xpk272tfw0h5hq\cp_init57408229\metadata
+2018-12-27 20:56:26,945 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts-remapped\ijinit_a45cqemlieju11areulnyh5n\cpynsrk1rc7xpk272tfw0h5hq\init-3765145142309932589
+2018-12-27 20:56:26,945 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts-remapped\ijinit_a45cqemlieju11areulnyh5n\cpynsrk1rc7xpk272tfw0h5hq\init-3765145142309932589\classes
+2018-12-27 20:56:26,945 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts-remapped\ijinit_a45cqemlieju11areulnyh5n\cpynsrk1rc7xpk272tfw0h5hq\init-3765145142309932589\metadata
+2018-12-27 20:56:26,945 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts-remapped\settings_7t6zffywrzezit8jcyemuyttl
+2018-12-27 20:56:26,954 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts-remapped\settings_7t6zffywrzezit8jcyemuyttl\9ejwtyixtds2dlx9q4hqm4iap
+2018-12-27 20:56:26,963 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts-remapped\settings_7t6zffywrzezit8jcyemuyttl\9ejwtyixtds2dlx9q4hqm4iap\cp_settings57408229
+2018-12-27 20:56:26,963 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts-remapped\settings_7t6zffywrzezit8jcyemuyttl\9ejwtyixtds2dlx9q4hqm4iap\cp_settings57408229\classes
+2018-12-27 20:56:26,963 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts-remapped\settings_7t6zffywrzezit8jcyemuyttl\9ejwtyixtds2dlx9q4hqm4iap\cp_settings57408229\metadata
+2018-12-27 20:56:26,979 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts-remapped\settings_7t6zffywrzezit8jcyemuyttl\9ejwtyixtds2dlx9q4hqm4iap\settings57408229
+2018-12-27 20:56:26,979 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts-remapped\settings_7t6zffywrzezit8jcyemuyttl\9ejwtyixtds2dlx9q4hqm4iap\settings57408229\classes
+2018-12-27 20:56:26,979 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts-remapped\settings_7t6zffywrzezit8jcyemuyttl\9ejwtyixtds2dlx9q4hqm4iap\settings57408229\metadata
+2018-12-27 20:56:26,985 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts-remapped\settings_78nw1snjln2jsmkhbgd7gejev
+2018-12-27 20:56:26,988 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts-remapped\settings_78nw1snjln2jsmkhbgd7gejev\9ejwtyixtds2dlx9q4hqm4iap
+2018-12-27 20:56:26,990 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts-remapped\settings_78nw1snjln2jsmkhbgd7gejev\9ejwtyixtds2dlx9q4hqm4iap\cp_settings57408229
+2018-12-27 20:56:26,990 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts-remapped\settings_78nw1snjln2jsmkhbgd7gejev\9ejwtyixtds2dlx9q4hqm4iap\cp_settings57408229\classes
+2018-12-27 20:56:26,995 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts-remapped\settings_78nw1snjln2jsmkhbgd7gejev\9ejwtyixtds2dlx9q4hqm4iap\cp_settings57408229\metadata
+2018-12-27 20:56:26,997 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts-remapped\settings_78nw1snjln2jsmkhbgd7gejev\9ejwtyixtds2dlx9q4hqm4iap\settings57408229
+2018-12-27 20:56:26,998 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts-remapped\settings_78nw1snjln2jsmkhbgd7gejev\9ejwtyixtds2dlx9q4hqm4iap\settings57408229\classes
+2018-12-27 20:56:26,998 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\2.14.1\scripts-remapped\settings_78nw1snjln2jsmkhbgd7gejev\9ejwtyixtds2dlx9q4hqm4iap\settings57408229\metadata
+2018-12-27 20:56:27,002 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3
+2018-12-27 20:56:27,003 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\classAnalysis
+2018-12-27 20:56:27,003 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\generated-gradle-jars
+2018-12-27 20:56:27,003 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\jarSnapshots
+2018-12-27 20:56:27,003 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\plugin-resolution
+2018-12-27 20:56:27,024 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts
+2018-12-27 20:56:27,039 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\3bvmk7dyyamc3g0iu9e645vtv
+2018-12-27 20:56:27,039 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\3bvmk7dyyamc3g0iu9e645vtv\cp_init
+2018-12-27 20:56:27,045 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\3bvmk7dyyamc3g0iu9e645vtv\cp_init\cp_init1efd45104ffa2d33563b85b9edda76e3
+2018-12-27 20:56:27,046 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\3bvmk7dyyamc3g0iu9e645vtv\cp_init\cp_init1efd45104ffa2d33563b85b9edda76e3\classes
+2018-12-27 20:56:27,046 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\3bvmk7dyyamc3g0iu9e645vtv\cp_init\cp_init1efd45104ffa2d33563b85b9edda76e3\metadata
+2018-12-27 20:56:27,046 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\3bvmk7dyyamc3g0iu9e645vtv\init
+2018-12-27 20:56:27,057 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\3bvmk7dyyamc3g0iu9e645vtv\init\init1efd45104ffa2d33563b85b9edda76e3
+2018-12-27 20:56:27,073 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\3bvmk7dyyamc3g0iu9e645vtv\init\init1efd45104ffa2d33563b85b9edda76e3\classes
+2018-12-27 20:56:27,087 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\3bvmk7dyyamc3g0iu9e645vtv\init\init1efd45104ffa2d33563b85b9edda76e3\metadata
+2018-12-27 20:56:27,105 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\4mjxe6tlj64ccf2dcw4tjb8sq
+2018-12-27 20:56:27,105 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\4mjxe6tlj64ccf2dcw4tjb8sq\cp_init
+2018-12-27 20:56:27,136 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\4mjxe6tlj64ccf2dcw4tjb8sq\cp_init\cp_init1efd45104ffa2d33563b85b9edda76e3
+2018-12-27 20:56:27,140 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\4mjxe6tlj64ccf2dcw4tjb8sq\cp_init\cp_init1efd45104ffa2d33563b85b9edda76e3\classes
+2018-12-27 20:56:27,143 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\4mjxe6tlj64ccf2dcw4tjb8sq\cp_init\cp_init1efd45104ffa2d33563b85b9edda76e3\metadata
+2018-12-27 20:56:27,143 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\4mjxe6tlj64ccf2dcw4tjb8sq\init
+2018-12-27 20:56:27,143 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\4mjxe6tlj64ccf2dcw4tjb8sq\init\init4c63d483cfbcde6f5d68fa53d2301eeb
+2018-12-27 20:56:27,151 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\4mjxe6tlj64ccf2dcw4tjb8sq\init\init4c63d483cfbcde6f5d68fa53d2301eeb\classes
+2018-12-27 20:56:27,153 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\4mjxe6tlj64ccf2dcw4tjb8sq\init\init4c63d483cfbcde6f5d68fa53d2301eeb\metadata
+2018-12-27 20:56:27,155 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\4ygunu8cfr06pm6bthlh117q
+2018-12-27 20:56:27,157 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\4ygunu8cfr06pm6bthlh117q\cp_init
+2018-12-27 20:56:27,158 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\4ygunu8cfr06pm6bthlh117q\cp_init\cp_init1efd45104ffa2d33563b85b9edda76e3
+2018-12-27 20:56:27,173 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\4ygunu8cfr06pm6bthlh117q\cp_init\cp_init1efd45104ffa2d33563b85b9edda76e3\classes
+2018-12-27 20:56:27,175 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\4ygunu8cfr06pm6bthlh117q\cp_init\cp_init1efd45104ffa2d33563b85b9edda76e3\metadata
+2018-12-27 20:56:27,175 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\4ygunu8cfr06pm6bthlh117q\init
+2018-12-27 20:56:27,175 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\4ygunu8cfr06pm6bthlh117q\init\init142ce5e107fb0d108a4aea9b475c005f
+2018-12-27 20:56:27,182 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\4ygunu8cfr06pm6bthlh117q\init\init142ce5e107fb0d108a4aea9b475c005f\classes
+2018-12-27 20:56:27,183 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\4ygunu8cfr06pm6bthlh117q\init\init142ce5e107fb0d108a4aea9b475c005f\metadata
+2018-12-27 20:56:27,183 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\5qs5ertgqz160ce68szxoutic
+2018-12-27 20:56:27,183 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\5qs5ertgqz160ce68szxoutic\cp_init
+2018-12-27 20:56:27,190 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\5qs5ertgqz160ce68szxoutic\cp_init\cp_init1efd45104ffa2d33563b85b9edda76e3
+2018-12-27 20:56:27,193 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\5qs5ertgqz160ce68szxoutic\cp_init\cp_init1efd45104ffa2d33563b85b9edda76e3\classes
+2018-12-27 20:56:27,196 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\5qs5ertgqz160ce68szxoutic\cp_init\cp_init1efd45104ffa2d33563b85b9edda76e3\metadata
+2018-12-27 20:56:27,197 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\5qs5ertgqz160ce68szxoutic\init
+2018-12-27 20:56:27,200 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\5qs5ertgqz160ce68szxoutic\init\init0728df97424037039b9cf15d8ad83eed
+2018-12-27 20:56:27,201 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\5qs5ertgqz160ce68szxoutic\init\init0728df97424037039b9cf15d8ad83eed\classes
+2018-12-27 20:56:27,201 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\5qs5ertgqz160ce68szxoutic\init\init0728df97424037039b9cf15d8ad83eed\metadata
+2018-12-27 20:56:27,207 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\7usnv2ow5dwajevk7amhpfxzy
+2018-12-27 20:56:27,207 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\7usnv2ow5dwajevk7amhpfxzy\cp_proj
+2018-12-27 20:56:27,207 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\7usnv2ow5dwajevk7amhpfxzy\cp_proj\cp_proj1efd45104ffa2d33563b85b9edda76e3
+2018-12-27 20:56:27,213 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\7usnv2ow5dwajevk7amhpfxzy\cp_proj\cp_proj1efd45104ffa2d33563b85b9edda76e3\classes
+2018-12-27 20:56:27,218 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\7usnv2ow5dwajevk7amhpfxzy\cp_proj\cp_proj1efd45104ffa2d33563b85b9edda76e3\metadata
+2018-12-27 20:56:27,218 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\7usnv2ow5dwajevk7amhpfxzy\proj
+2018-12-27 20:56:27,219 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\7usnv2ow5dwajevk7amhpfxzy\proj\proj0ee2fffba713f93446581826251c5da9
+2018-12-27 20:56:27,221 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\7usnv2ow5dwajevk7amhpfxzy\proj\proj0ee2fffba713f93446581826251c5da9\classes
+2018-12-27 20:56:27,224 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\7usnv2ow5dwajevk7amhpfxzy\proj\proj0ee2fffba713f93446581826251c5da9\metadata
+2018-12-27 20:56:27,224 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\8eaakmqosgav7wslivqkng5uz
+2018-12-27 20:56:27,224 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\8eaakmqosgav7wslivqkng5uz\cp_proj
+2018-12-27 20:56:27,229 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\8eaakmqosgav7wslivqkng5uz\cp_proj\cp_proj1efd45104ffa2d33563b85b9edda76e3
+2018-12-27 20:56:27,230 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\8eaakmqosgav7wslivqkng5uz\cp_proj\cp_proj1efd45104ffa2d33563b85b9edda76e3\classes
+2018-12-27 20:56:27,230 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\8eaakmqosgav7wslivqkng5uz\cp_proj\cp_proj1efd45104ffa2d33563b85b9edda76e3\metadata
+2018-12-27 20:56:27,230 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\8eaakmqosgav7wslivqkng5uz\proj
+2018-12-27 20:56:27,237 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\8eaakmqosgav7wslivqkng5uz\proj\projdc838471ab7d3c4b3d21bcf001578314
+2018-12-27 20:56:27,240 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\8eaakmqosgav7wslivqkng5uz\proj\projdc838471ab7d3c4b3d21bcf001578314\classes
+2018-12-27 20:56:27,241 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\8eaakmqosgav7wslivqkng5uz\proj\projdc838471ab7d3c4b3d21bcf001578314\metadata
+2018-12-27 20:56:27,241 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\8jdntp5bac1f7k71c5kj5jv9a
+2018-12-27 20:56:27,241 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\8jdntp5bac1f7k71c5kj5jv9a\cp_proj
+2018-12-27 20:56:27,248 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\8jdntp5bac1f7k71c5kj5jv9a\cp_proj\cp_proj1efd45104ffa2d33563b85b9edda76e3
+2018-12-27 20:56:27,249 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\8jdntp5bac1f7k71c5kj5jv9a\cp_proj\cp_proj1efd45104ffa2d33563b85b9edda76e3\classes
+2018-12-27 20:56:27,249 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\8jdntp5bac1f7k71c5kj5jv9a\cp_proj\cp_proj1efd45104ffa2d33563b85b9edda76e3\metadata
+2018-12-27 20:56:27,249 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\8jdntp5bac1f7k71c5kj5jv9a\proj
+2018-12-27 20:56:27,249 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\8jdntp5bac1f7k71c5kj5jv9a\proj\proj0ee2fffba713f93446581826251c5da9
+2018-12-27 20:56:27,259 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\8jdntp5bac1f7k71c5kj5jv9a\proj\proj0ee2fffba713f93446581826251c5da9\classes
+2018-12-27 20:56:27,261 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\8jdntp5bac1f7k71c5kj5jv9a\proj\proj0ee2fffba713f93446581826251c5da9\metadata
+2018-12-27 20:56:27,261 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\8y6fcwxqmrhhtftfupmwf660v
+2018-12-27 20:56:27,261 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\8y6fcwxqmrhhtftfupmwf660v\cp_proj
+2018-12-27 20:56:27,261 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\8y6fcwxqmrhhtftfupmwf660v\cp_proj\cp_proj1efd45104ffa2d33563b85b9edda76e3
+2018-12-27 20:56:27,269 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\8y6fcwxqmrhhtftfupmwf660v\cp_proj\cp_proj1efd45104ffa2d33563b85b9edda76e3\classes
+2018-12-27 20:56:27,270 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\8y6fcwxqmrhhtftfupmwf660v\cp_proj\cp_proj1efd45104ffa2d33563b85b9edda76e3\metadata
+2018-12-27 20:56:27,270 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\8y6fcwxqmrhhtftfupmwf660v\proj
+2018-12-27 20:56:27,270 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\8y6fcwxqmrhhtftfupmwf660v\proj\proj0ee2fffba713f93446581826251c5da9
+2018-12-27 20:56:27,291 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\8y6fcwxqmrhhtftfupmwf660v\proj\proj0ee2fffba713f93446581826251c5da9\classes
+2018-12-27 20:56:27,291 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\8y6fcwxqmrhhtftfupmwf660v\proj\proj0ee2fffba713f93446581826251c5da9\metadata
+2018-12-27 20:56:27,307 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\48glpsmg7l6foq78p775k12ah
+2018-12-27 20:56:27,308 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\48glpsmg7l6foq78p775k12ah\cp_proj
+2018-12-27 20:56:27,325 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\48glpsmg7l6foq78p775k12ah\cp_proj\cp_proj1efd45104ffa2d33563b85b9edda76e3
+2018-12-27 20:56:27,326 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\48glpsmg7l6foq78p775k12ah\cp_proj\cp_proj1efd45104ffa2d33563b85b9edda76e3\classes
+2018-12-27 20:56:27,326 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\48glpsmg7l6foq78p775k12ah\cp_proj\cp_proj1efd45104ffa2d33563b85b9edda76e3\metadata
+2018-12-27 20:56:27,326 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\48glpsmg7l6foq78p775k12ah\proj
+2018-12-27 20:56:27,326 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\48glpsmg7l6foq78p775k12ah\proj\projdc838471ab7d3c4b3d21bcf001578314
+2018-12-27 20:56:27,335 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\48glpsmg7l6foq78p775k12ah\proj\projdc838471ab7d3c4b3d21bcf001578314\classes
+2018-12-27 20:56:27,336 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\48glpsmg7l6foq78p775k12ah\proj\projdc838471ab7d3c4b3d21bcf001578314\metadata
+2018-12-27 20:56:27,338 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\75m1ojola3xee6bl95bu05hjo
+2018-12-27 20:56:27,338 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\75m1ojola3xee6bl95bu05hjo\cp_settings
+2018-12-27 20:56:27,338 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\75m1ojola3xee6bl95bu05hjo\cp_settings\cp_settings1efd45104ffa2d33563b85b9edda76e3
+2018-12-27 20:56:27,338 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\75m1ojola3xee6bl95bu05hjo\cp_settings\cp_settings1efd45104ffa2d33563b85b9edda76e3\classes
+2018-12-27 20:56:27,347 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\75m1ojola3xee6bl95bu05hjo\cp_settings\cp_settings1efd45104ffa2d33563b85b9edda76e3\metadata
+2018-12-27 20:56:27,348 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\75m1ojola3xee6bl95bu05hjo\settings
+2018-12-27 20:56:27,351 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\75m1ojola3xee6bl95bu05hjo\settings\settings1efd45104ffa2d33563b85b9edda76e3
+2018-12-27 20:56:27,352 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\75m1ojola3xee6bl95bu05hjo\settings\settings1efd45104ffa2d33563b85b9edda76e3\classes
+2018-12-27 20:56:27,355 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\75m1ojola3xee6bl95bu05hjo\settings\settings1efd45104ffa2d33563b85b9edda76e3\metadata
+2018-12-27 20:56:27,355 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\78vsfpbi0d9l9az46liyudoh9
+2018-12-27 20:56:27,355 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\78vsfpbi0d9l9az46liyudoh9\cp_init
+2018-12-27 20:56:27,355 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\78vsfpbi0d9l9az46liyudoh9\cp_init\cp_init1efd45104ffa2d33563b85b9edda76e3
+2018-12-27 20:56:27,362 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\78vsfpbi0d9l9az46liyudoh9\cp_init\cp_init1efd45104ffa2d33563b85b9edda76e3\classes
+2018-12-27 20:56:27,365 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\78vsfpbi0d9l9az46liyudoh9\cp_init\cp_init1efd45104ffa2d33563b85b9edda76e3\metadata
+2018-12-27 20:56:27,365 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\78vsfpbi0d9l9az46liyudoh9\init
+2018-12-27 20:56:27,365 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\78vsfpbi0d9l9az46liyudoh9\init\init2ac5664d6c39d30e0ba0608b3c880678
+2018-12-27 20:56:27,371 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\78vsfpbi0d9l9az46liyudoh9\init\init2ac5664d6c39d30e0ba0608b3c880678\classes
+2018-12-27 20:56:27,372 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\78vsfpbi0d9l9az46liyudoh9\init\init2ac5664d6c39d30e0ba0608b3c880678\metadata
+2018-12-27 20:56:27,372 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\98qq7q87vloo076yfqzlxugnu
+2018-12-27 20:56:27,372 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\98qq7q87vloo076yfqzlxugnu\cp_init
+2018-12-27 20:56:27,387 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\98qq7q87vloo076yfqzlxugnu\cp_init\cp_init1efd45104ffa2d33563b85b9edda76e3
+2018-12-27 20:56:27,403 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\98qq7q87vloo076yfqzlxugnu\cp_init\cp_init1efd45104ffa2d33563b85b9edda76e3\classes
+2018-12-27 20:56:27,410 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\98qq7q87vloo076yfqzlxugnu\cp_init\cp_init1efd45104ffa2d33563b85b9edda76e3\metadata
+2018-12-27 20:56:27,411 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\98qq7q87vloo076yfqzlxugnu\init
+2018-12-27 20:56:27,427 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\98qq7q87vloo076yfqzlxugnu\init\init0d6934565686b47a36d7dcc492aae3b0
+2018-12-27 20:56:27,439 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\98qq7q87vloo076yfqzlxugnu\init\init0d6934565686b47a36d7dcc492aae3b0\classes
+2018-12-27 20:56:27,439 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\98qq7q87vloo076yfqzlxugnu\init\init0d6934565686b47a36d7dcc492aae3b0\metadata
+2018-12-27 20:56:27,457 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\312tdon3gncbefwl5th4wo9ck
+2018-12-27 20:56:27,457 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\312tdon3gncbefwl5th4wo9ck\cp_proj
+2018-12-27 20:56:27,475 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\312tdon3gncbefwl5th4wo9ck\cp_proj\cp_proj1efd45104ffa2d33563b85b9edda76e3
+2018-12-27 20:56:27,491 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\312tdon3gncbefwl5th4wo9ck\cp_proj\cp_proj1efd45104ffa2d33563b85b9edda76e3\classes
+2018-12-27 20:56:27,493 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\312tdon3gncbefwl5th4wo9ck\cp_proj\cp_proj1efd45104ffa2d33563b85b9edda76e3\metadata
+2018-12-27 20:56:27,493 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\312tdon3gncbefwl5th4wo9ck\proj
+2018-12-27 20:56:27,493 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\312tdon3gncbefwl5th4wo9ck\proj\proj228185996d748a030c361d67a65ce118
+2018-12-27 20:56:27,500 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\312tdon3gncbefwl5th4wo9ck\proj\proj228185996d748a030c361d67a65ce118\classes
+2018-12-27 20:56:27,501 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\312tdon3gncbefwl5th4wo9ck\proj\proj228185996d748a030c361d67a65ce118\metadata
+2018-12-27 20:56:27,501 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\bpyqzkl0cz5c7u4pa0xgpych9
+2018-12-27 20:56:27,501 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\bpyqzkl0cz5c7u4pa0xgpych9\cp_init
+2018-12-27 20:56:27,501 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\bpyqzkl0cz5c7u4pa0xgpych9\cp_init\cp_init1efd45104ffa2d33563b85b9edda76e3
+2018-12-27 20:56:27,509 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\bpyqzkl0cz5c7u4pa0xgpych9\cp_init\cp_init1efd45104ffa2d33563b85b9edda76e3\classes
+2018-12-27 20:56:27,511 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\bpyqzkl0cz5c7u4pa0xgpych9\cp_init\cp_init1efd45104ffa2d33563b85b9edda76e3\metadata
+2018-12-27 20:56:27,511 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\bpyqzkl0cz5c7u4pa0xgpych9\init
+2018-12-27 20:56:27,527 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\bpyqzkl0cz5c7u4pa0xgpych9\init\init7284ea91292cf481da5b910bb893efa2
+2018-12-27 20:56:27,528 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\bpyqzkl0cz5c7u4pa0xgpych9\init\init7284ea91292cf481da5b910bb893efa2\classes
+2018-12-27 20:56:27,528 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts\bpyqzkl0cz5c7u4pa0xgpych9\init\init7284ea91292cf481da5b910bb893efa2\metadata
+2018-12-27 20:56:27,536 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped
+2018-12-27 20:56:27,536 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\asLocalRepo_9nvqi4zxi6t5pgvy6iy7emx7p
+2018-12-27 20:56:27,536 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\asLocalRepo_9nvqi4zxi6t5pgvy6iy7emx7p\3bvmk7dyyamc3g0iu9e645vtv
+2018-12-27 20:56:27,536 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\asLocalRepo_9nvqi4zxi6t5pgvy6iy7emx7p\3bvmk7dyyamc3g0iu9e645vtv\cp_init1efd45104ffa2d33563b85b9edda76e3
+2018-12-27 20:56:27,536 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\asLocalRepo_9nvqi4zxi6t5pgvy6iy7emx7p\3bvmk7dyyamc3g0iu9e645vtv\cp_init1efd45104ffa2d33563b85b9edda76e3\classes
+2018-12-27 20:56:27,536 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\asLocalRepo_9nvqi4zxi6t5pgvy6iy7emx7p\3bvmk7dyyamc3g0iu9e645vtv\cp_init1efd45104ffa2d33563b85b9edda76e3\metadata
+2018-12-27 20:56:27,551 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\asLocalRepo_9nvqi4zxi6t5pgvy6iy7emx7p\3bvmk7dyyamc3g0iu9e645vtv\init1efd45104ffa2d33563b85b9edda76e3
+2018-12-27 20:56:27,553 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\asLocalRepo_9nvqi4zxi6t5pgvy6iy7emx7p\3bvmk7dyyamc3g0iu9e645vtv\init1efd45104ffa2d33563b85b9edda76e3\classes
+2018-12-27 20:56:27,554 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\asLocalRepo_9nvqi4zxi6t5pgvy6iy7emx7p\3bvmk7dyyamc3g0iu9e645vtv\init1efd45104ffa2d33563b85b9edda76e3\metadata
+2018-12-27 20:56:27,554 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\asLocalRepo1_bacly68jovxcq3hoz66rg16ba
+2018-12-27 20:56:27,554 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\asLocalRepo1_bacly68jovxcq3hoz66rg16ba\3bvmk7dyyamc3g0iu9e645vtv
+2018-12-27 20:56:27,575 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\asLocalRepo1_bacly68jovxcq3hoz66rg16ba\3bvmk7dyyamc3g0iu9e645vtv\cp_init1efd45104ffa2d33563b85b9edda76e3
+2018-12-27 20:56:27,575 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\asLocalRepo1_bacly68jovxcq3hoz66rg16ba\3bvmk7dyyamc3g0iu9e645vtv\cp_init1efd45104ffa2d33563b85b9edda76e3\classes
+2018-12-27 20:56:27,575 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\asLocalRepo1_bacly68jovxcq3hoz66rg16ba\3bvmk7dyyamc3g0iu9e645vtv\cp_init1efd45104ffa2d33563b85b9edda76e3\metadata
+2018-12-27 20:56:27,575 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\asLocalRepo1_bacly68jovxcq3hoz66rg16ba\3bvmk7dyyamc3g0iu9e645vtv\init1efd45104ffa2d33563b85b9edda76e3
+2018-12-27 20:56:27,583 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\asLocalRepo1_bacly68jovxcq3hoz66rg16ba\3bvmk7dyyamc3g0iu9e645vtv\init1efd45104ffa2d33563b85b9edda76e3\classes
+2018-12-27 20:56:27,584 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\asLocalRepo1_bacly68jovxcq3hoz66rg16ba\3bvmk7dyyamc3g0iu9e645vtv\init1efd45104ffa2d33563b85b9edda76e3\metadata
+2018-12-27 20:56:27,584 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\asLocalRepo2_94jmtl5b1pjwbpp2f0vt4bczd
+2018-12-27 20:56:27,590 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\asLocalRepo2_94jmtl5b1pjwbpp2f0vt4bczd\3bvmk7dyyamc3g0iu9e645vtv
+2018-12-27 20:56:27,591 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\asLocalRepo2_94jmtl5b1pjwbpp2f0vt4bczd\3bvmk7dyyamc3g0iu9e645vtv\cp_init1efd45104ffa2d33563b85b9edda76e3
+2018-12-27 20:56:27,591 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\asLocalRepo2_94jmtl5b1pjwbpp2f0vt4bczd\3bvmk7dyyamc3g0iu9e645vtv\cp_init1efd45104ffa2d33563b85b9edda76e3\classes
+2018-12-27 20:56:27,591 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\asLocalRepo2_94jmtl5b1pjwbpp2f0vt4bczd\3bvmk7dyyamc3g0iu9e645vtv\cp_init1efd45104ffa2d33563b85b9edda76e3\metadata
+2018-12-27 20:56:27,591 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\asLocalRepo2_94jmtl5b1pjwbpp2f0vt4bczd\3bvmk7dyyamc3g0iu9e645vtv\init1efd45104ffa2d33563b85b9edda76e3
+2018-12-27 20:56:27,600 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\asLocalRepo2_94jmtl5b1pjwbpp2f0vt4bczd\3bvmk7dyyamc3g0iu9e645vtv\init1efd45104ffa2d33563b85b9edda76e3\classes
+2018-12-27 20:56:27,601 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\asLocalRepo2_94jmtl5b1pjwbpp2f0vt4bczd\3bvmk7dyyamc3g0iu9e645vtv\init1efd45104ffa2d33563b85b9edda76e3\metadata
+2018-12-27 20:56:27,608 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\build_3dsncutju7qxyajd7bkpe50qj
+2018-12-27 20:56:27,608 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\build_3dsncutju7qxyajd7bkpe50qj\8jdntp5bac1f7k71c5kj5jv9a
+2018-12-27 20:56:27,624 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\build_3dsncutju7qxyajd7bkpe50qj\8jdntp5bac1f7k71c5kj5jv9a\cp_proj1efd45104ffa2d33563b85b9edda76e3
+2018-12-27 20:56:27,624 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\build_3dsncutju7qxyajd7bkpe50qj\8jdntp5bac1f7k71c5kj5jv9a\cp_proj1efd45104ffa2d33563b85b9edda76e3\classes
+2018-12-27 20:56:27,641 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\build_3dsncutju7qxyajd7bkpe50qj\8jdntp5bac1f7k71c5kj5jv9a\cp_proj1efd45104ffa2d33563b85b9edda76e3\metadata
+2018-12-27 20:56:27,656 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\build_3dsncutju7qxyajd7bkpe50qj\8jdntp5bac1f7k71c5kj5jv9a\proj0ee2fffba713f93446581826251c5da9
+2018-12-27 20:56:27,658 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\build_3dsncutju7qxyajd7bkpe50qj\8jdntp5bac1f7k71c5kj5jv9a\proj0ee2fffba713f93446581826251c5da9\classes
+2018-12-27 20:56:27,659 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\build_3dsncutju7qxyajd7bkpe50qj\8jdntp5bac1f7k71c5kj5jv9a\proj0ee2fffba713f93446581826251c5da9\metadata
+2018-12-27 20:56:27,661 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\build_3e1bh2gbvd6u8ywhgpfaxcuun
+2018-12-27 20:56:27,661 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\build_3e1bh2gbvd6u8ywhgpfaxcuun\7usnv2ow5dwajevk7amhpfxzy
+2018-12-27 20:56:27,663 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\build_3e1bh2gbvd6u8ywhgpfaxcuun\7usnv2ow5dwajevk7amhpfxzy\cp_proj1efd45104ffa2d33563b85b9edda76e3
+2018-12-27 20:56:27,664 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\build_3e1bh2gbvd6u8ywhgpfaxcuun\7usnv2ow5dwajevk7amhpfxzy\cp_proj1efd45104ffa2d33563b85b9edda76e3\classes
+2018-12-27 20:56:27,664 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\build_3e1bh2gbvd6u8ywhgpfaxcuun\7usnv2ow5dwajevk7amhpfxzy\cp_proj1efd45104ffa2d33563b85b9edda76e3\metadata
+2018-12-27 20:56:27,666 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\build_3e1bh2gbvd6u8ywhgpfaxcuun\7usnv2ow5dwajevk7amhpfxzy\proj0ee2fffba713f93446581826251c5da9
+2018-12-27 20:56:27,667 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\build_3e1bh2gbvd6u8ywhgpfaxcuun\7usnv2ow5dwajevk7amhpfxzy\proj0ee2fffba713f93446581826251c5da9\classes
+2018-12-27 20:56:27,668 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\build_3e1bh2gbvd6u8ywhgpfaxcuun\7usnv2ow5dwajevk7amhpfxzy\proj0ee2fffba713f93446581826251c5da9\metadata
+2018-12-27 20:56:27,669 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\build_8nykd4phky1w4s99w5xircsdc
+2018-12-27 20:56:27,670 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\build_8nykd4phky1w4s99w5xircsdc\8y6fcwxqmrhhtftfupmwf660v
+2018-12-27 20:56:27,677 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\build_8nykd4phky1w4s99w5xircsdc\8y6fcwxqmrhhtftfupmwf660v\cp_proj1efd45104ffa2d33563b85b9edda76e3
+2018-12-27 20:56:27,696 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\build_8nykd4phky1w4s99w5xircsdc\8y6fcwxqmrhhtftfupmwf660v\cp_proj1efd45104ffa2d33563b85b9edda76e3\classes
+2018-12-27 20:56:27,696 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\build_8nykd4phky1w4s99w5xircsdc\8y6fcwxqmrhhtftfupmwf660v\cp_proj1efd45104ffa2d33563b85b9edda76e3\metadata
+2018-12-27 20:56:27,701 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\build_8nykd4phky1w4s99w5xircsdc\8y6fcwxqmrhhtftfupmwf660v\proj0ee2fffba713f93446581826251c5da9
+2018-12-27 20:56:27,710 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\build_8nykd4phky1w4s99w5xircsdc\8y6fcwxqmrhhtftfupmwf660v\proj0ee2fffba713f93446581826251c5da9\classes
+2018-12-27 20:56:27,710 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\build_8nykd4phky1w4s99w5xircsdc\8y6fcwxqmrhhtftfupmwf660v\proj0ee2fffba713f93446581826251c5da9\metadata
+2018-12-27 20:56:27,717 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\build_32cvo1z9wl3mz75hh6p1mw9we
+2018-12-27 20:56:27,718 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\build_32cvo1z9wl3mz75hh6p1mw9we\8y6fcwxqmrhhtftfupmwf660v
+2018-12-27 20:56:27,722 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\build_32cvo1z9wl3mz75hh6p1mw9we\8y6fcwxqmrhhtftfupmwf660v\cp_proj1efd45104ffa2d33563b85b9edda76e3
+2018-12-27 20:56:27,722 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\build_32cvo1z9wl3mz75hh6p1mw9we\8y6fcwxqmrhhtftfupmwf660v\cp_proj1efd45104ffa2d33563b85b9edda76e3\classes
+2018-12-27 20:56:27,729 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\build_32cvo1z9wl3mz75hh6p1mw9we\8y6fcwxqmrhhtftfupmwf660v\cp_proj1efd45104ffa2d33563b85b9edda76e3\metadata
+2018-12-27 20:56:27,730 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\build_32cvo1z9wl3mz75hh6p1mw9we\8y6fcwxqmrhhtftfupmwf660v\proj0ee2fffba713f93446581826251c5da9
+2018-12-27 20:56:27,731 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\build_32cvo1z9wl3mz75hh6p1mw9we\8y6fcwxqmrhhtftfupmwf660v\proj0ee2fffba713f93446581826251c5da9\classes
+2018-12-27 20:56:27,733 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\build_32cvo1z9wl3mz75hh6p1mw9we\8y6fcwxqmrhhtftfupmwf660v\proj0ee2fffba713f93446581826251c5da9\metadata
+2018-12-27 20:56:27,734 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\build_76yimtcqi69wtc45s41ucy35l
+2018-12-27 20:56:27,734 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\build_76yimtcqi69wtc45s41ucy35l\48glpsmg7l6foq78p775k12ah
+2018-12-27 20:56:27,739 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\build_76yimtcqi69wtc45s41ucy35l\48glpsmg7l6foq78p775k12ah\cp_proj1efd45104ffa2d33563b85b9edda76e3
+2018-12-27 20:56:27,739 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\build_76yimtcqi69wtc45s41ucy35l\48glpsmg7l6foq78p775k12ah\cp_proj1efd45104ffa2d33563b85b9edda76e3\classes
+2018-12-27 20:56:27,739 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\build_76yimtcqi69wtc45s41ucy35l\48glpsmg7l6foq78p775k12ah\cp_proj1efd45104ffa2d33563b85b9edda76e3\metadata
+2018-12-27 20:56:27,748 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\build_76yimtcqi69wtc45s41ucy35l\48glpsmg7l6foq78p775k12ah\projdc838471ab7d3c4b3d21bcf001578314
+2018-12-27 20:56:27,749 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\build_76yimtcqi69wtc45s41ucy35l\48glpsmg7l6foq78p775k12ah\projdc838471ab7d3c4b3d21bcf001578314\classes
+2018-12-27 20:56:27,751 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\build_76yimtcqi69wtc45s41ucy35l\48glpsmg7l6foq78p775k12ah\projdc838471ab7d3c4b3d21bcf001578314\metadata
+2018-12-27 20:56:27,751 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\build_443jcch0udnj319omgn4mk5yp
+2018-12-27 20:56:27,751 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\build_443jcch0udnj319omgn4mk5yp\312tdon3gncbefwl5th4wo9ck
+2018-12-27 20:56:27,756 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\build_443jcch0udnj319omgn4mk5yp\312tdon3gncbefwl5th4wo9ck\cp_proj1efd45104ffa2d33563b85b9edda76e3
+2018-12-27 20:56:27,756 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\build_443jcch0udnj319omgn4mk5yp\312tdon3gncbefwl5th4wo9ck\cp_proj1efd45104ffa2d33563b85b9edda76e3\classes
+2018-12-27 20:56:27,768 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\build_443jcch0udnj319omgn4mk5yp\312tdon3gncbefwl5th4wo9ck\cp_proj1efd45104ffa2d33563b85b9edda76e3\metadata
+2018-12-27 20:56:27,769 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\build_443jcch0udnj319omgn4mk5yp\312tdon3gncbefwl5th4wo9ck\proj228185996d748a030c361d67a65ce118
+2018-12-27 20:56:27,771 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\build_443jcch0udnj319omgn4mk5yp\312tdon3gncbefwl5th4wo9ck\proj228185996d748a030c361d67a65ce118\classes
+2018-12-27 20:56:27,772 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\build_443jcch0udnj319omgn4mk5yp\312tdon3gncbefwl5th4wo9ck\proj228185996d748a030c361d67a65ce118\metadata
+2018-12-27 20:56:27,772 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\build_ctdyy5ba9qvd64ukudrtvayko
+2018-12-27 20:56:27,772 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\build_ctdyy5ba9qvd64ukudrtvayko\8eaakmqosgav7wslivqkng5uz
+2018-12-27 20:56:27,774 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\build_ctdyy5ba9qvd64ukudrtvayko\8eaakmqosgav7wslivqkng5uz\cp_proj1efd45104ffa2d33563b85b9edda76e3
+2018-12-27 20:56:27,777 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\build_ctdyy5ba9qvd64ukudrtvayko\8eaakmqosgav7wslivqkng5uz\cp_proj1efd45104ffa2d33563b85b9edda76e3\classes
+2018-12-27 20:56:27,777 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\build_ctdyy5ba9qvd64ukudrtvayko\8eaakmqosgav7wslivqkng5uz\cp_proj1efd45104ffa2d33563b85b9edda76e3\metadata
+2018-12-27 20:56:27,786 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\build_ctdyy5ba9qvd64ukudrtvayko\8eaakmqosgav7wslivqkng5uz\projdc838471ab7d3c4b3d21bcf001578314
+2018-12-27 20:56:27,788 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\build_ctdyy5ba9qvd64ukudrtvayko\8eaakmqosgav7wslivqkng5uz\projdc838471ab7d3c4b3d21bcf001578314\classes
+2018-12-27 20:56:27,789 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\build_ctdyy5ba9qvd64ukudrtvayko\8eaakmqosgav7wslivqkng5uz\projdc838471ab7d3c4b3d21bcf001578314\metadata
+2018-12-27 20:56:27,791 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\ijinit_a45cqemlieju11areulnyh5n
+2018-12-27 20:56:27,791 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\ijinit_a45cqemlieju11areulnyh5n\4mjxe6tlj64ccf2dcw4tjb8sq
+2018-12-27 20:56:27,797 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\ijinit_a45cqemlieju11areulnyh5n\4mjxe6tlj64ccf2dcw4tjb8sq\cp_init1efd45104ffa2d33563b85b9edda76e3
+2018-12-27 20:56:27,805 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\ijinit_a45cqemlieju11areulnyh5n\4mjxe6tlj64ccf2dcw4tjb8sq\cp_init1efd45104ffa2d33563b85b9edda76e3\classes
+2018-12-27 20:56:27,805 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\ijinit_a45cqemlieju11areulnyh5n\4mjxe6tlj64ccf2dcw4tjb8sq\cp_init1efd45104ffa2d33563b85b9edda76e3\metadata
+2018-12-27 20:56:27,805 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\ijinit_a45cqemlieju11areulnyh5n\4mjxe6tlj64ccf2dcw4tjb8sq\init4c63d483cfbcde6f5d68fa53d2301eeb
+2018-12-27 20:56:27,808 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\ijinit_a45cqemlieju11areulnyh5n\4mjxe6tlj64ccf2dcw4tjb8sq\init4c63d483cfbcde6f5d68fa53d2301eeb\classes
+2018-12-27 20:56:27,809 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\ijinit_a45cqemlieju11areulnyh5n\4mjxe6tlj64ccf2dcw4tjb8sq\init4c63d483cfbcde6f5d68fa53d2301eeb\metadata
+2018-12-27 20:56:27,810 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\ijinit_a45cqemlieju11areulnyh5n\4ygunu8cfr06pm6bthlh117q
+2018-12-27 20:56:27,822 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\ijinit_a45cqemlieju11areulnyh5n\4ygunu8cfr06pm6bthlh117q\cp_init1efd45104ffa2d33563b85b9edda76e3
+2018-12-27 20:56:27,830 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\ijinit_a45cqemlieju11areulnyh5n\4ygunu8cfr06pm6bthlh117q\cp_init1efd45104ffa2d33563b85b9edda76e3\classes
+2018-12-27 20:56:27,834 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\ijinit_a45cqemlieju11areulnyh5n\4ygunu8cfr06pm6bthlh117q\cp_init1efd45104ffa2d33563b85b9edda76e3\metadata
+2018-12-27 20:56:27,835 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\ijinit_a45cqemlieju11areulnyh5n\4ygunu8cfr06pm6bthlh117q\init142ce5e107fb0d108a4aea9b475c005f
+2018-12-27 20:56:27,836 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\ijinit_a45cqemlieju11areulnyh5n\4ygunu8cfr06pm6bthlh117q\init142ce5e107fb0d108a4aea9b475c005f\classes
+2018-12-27 20:56:27,838 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\ijinit_a45cqemlieju11areulnyh5n\4ygunu8cfr06pm6bthlh117q\init142ce5e107fb0d108a4aea9b475c005f\metadata
+2018-12-27 20:56:27,838 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\ijinit_a45cqemlieju11areulnyh5n\5qs5ertgqz160ce68szxoutic
+2018-12-27 20:56:27,841 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\ijinit_a45cqemlieju11areulnyh5n\5qs5ertgqz160ce68szxoutic\cp_init1efd45104ffa2d33563b85b9edda76e3
+2018-12-27 20:56:27,847 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\ijinit_a45cqemlieju11areulnyh5n\5qs5ertgqz160ce68szxoutic\cp_init1efd45104ffa2d33563b85b9edda76e3\classes
+2018-12-27 20:56:27,848 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\ijinit_a45cqemlieju11areulnyh5n\5qs5ertgqz160ce68szxoutic\cp_init1efd45104ffa2d33563b85b9edda76e3\metadata
+2018-12-27 20:56:27,850 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\ijinit_a45cqemlieju11areulnyh5n\5qs5ertgqz160ce68szxoutic\init0728df97424037039b9cf15d8ad83eed
+2018-12-27 20:56:27,851 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\ijinit_a45cqemlieju11areulnyh5n\5qs5ertgqz160ce68szxoutic\init0728df97424037039b9cf15d8ad83eed\classes
+2018-12-27 20:56:27,853 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\ijinit_a45cqemlieju11areulnyh5n\5qs5ertgqz160ce68szxoutic\init0728df97424037039b9cf15d8ad83eed\metadata
+2018-12-27 20:56:27,853 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\ijinit_a45cqemlieju11areulnyh5n\78vsfpbi0d9l9az46liyudoh9
+2018-12-27 20:56:27,857 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\ijinit_a45cqemlieju11areulnyh5n\78vsfpbi0d9l9az46liyudoh9\cp_init1efd45104ffa2d33563b85b9edda76e3
+2018-12-27 20:56:27,863 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\ijinit_a45cqemlieju11areulnyh5n\78vsfpbi0d9l9az46liyudoh9\cp_init1efd45104ffa2d33563b85b9edda76e3\classes
+2018-12-27 20:56:27,863 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\ijinit_a45cqemlieju11areulnyh5n\78vsfpbi0d9l9az46liyudoh9\cp_init1efd45104ffa2d33563b85b9edda76e3\metadata
+2018-12-27 20:56:27,878 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\ijinit_a45cqemlieju11areulnyh5n\78vsfpbi0d9l9az46liyudoh9\init2ac5664d6c39d30e0ba0608b3c880678
+2018-12-27 20:56:27,879 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\ijinit_a45cqemlieju11areulnyh5n\78vsfpbi0d9l9az46liyudoh9\init2ac5664d6c39d30e0ba0608b3c880678\classes
+2018-12-27 20:56:27,880 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\ijinit_a45cqemlieju11areulnyh5n\78vsfpbi0d9l9az46liyudoh9\init2ac5664d6c39d30e0ba0608b3c880678\metadata
+2018-12-27 20:56:27,881 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\ijinit_a45cqemlieju11areulnyh5n\98qq7q87vloo076yfqzlxugnu
+2018-12-27 20:56:27,891 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\ijinit_a45cqemlieju11areulnyh5n\98qq7q87vloo076yfqzlxugnu\cp_init1efd45104ffa2d33563b85b9edda76e3
+2018-12-27 20:56:27,905 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\ijinit_a45cqemlieju11areulnyh5n\98qq7q87vloo076yfqzlxugnu\cp_init1efd45104ffa2d33563b85b9edda76e3\classes
+2018-12-27 20:56:27,905 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\ijinit_a45cqemlieju11areulnyh5n\98qq7q87vloo076yfqzlxugnu\cp_init1efd45104ffa2d33563b85b9edda76e3\metadata
+2018-12-27 20:56:27,908 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\ijinit_a45cqemlieju11areulnyh5n\98qq7q87vloo076yfqzlxugnu\init0d6934565686b47a36d7dcc492aae3b0
+2018-12-27 20:56:27,920 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\ijinit_a45cqemlieju11areulnyh5n\98qq7q87vloo076yfqzlxugnu\init0d6934565686b47a36d7dcc492aae3b0\classes
+2018-12-27 20:56:27,920 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\ijinit_a45cqemlieju11areulnyh5n\98qq7q87vloo076yfqzlxugnu\init0d6934565686b47a36d7dcc492aae3b0\metadata
+2018-12-27 20:56:27,936 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\ijinit_a45cqemlieju11areulnyh5n\bpyqzkl0cz5c7u4pa0xgpych9
+2018-12-27 20:56:27,938 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\ijinit_a45cqemlieju11areulnyh5n\bpyqzkl0cz5c7u4pa0xgpych9\cp_init1efd45104ffa2d33563b85b9edda76e3
+2018-12-27 20:56:27,952 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\ijinit_a45cqemlieju11areulnyh5n\bpyqzkl0cz5c7u4pa0xgpych9\cp_init1efd45104ffa2d33563b85b9edda76e3\classes
+2018-12-27 20:56:27,953 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\ijinit_a45cqemlieju11areulnyh5n\bpyqzkl0cz5c7u4pa0xgpych9\cp_init1efd45104ffa2d33563b85b9edda76e3\metadata
+2018-12-27 20:56:27,953 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\ijinit_a45cqemlieju11areulnyh5n\bpyqzkl0cz5c7u4pa0xgpych9\init7284ea91292cf481da5b910bb893efa2
+2018-12-27 20:56:27,960 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\ijinit_a45cqemlieju11areulnyh5n\bpyqzkl0cz5c7u4pa0xgpych9\init7284ea91292cf481da5b910bb893efa2\classes
+2018-12-27 20:56:27,961 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\ijinit_a45cqemlieju11areulnyh5n\bpyqzkl0cz5c7u4pa0xgpych9\init7284ea91292cf481da5b910bb893efa2\metadata
+2018-12-27 20:56:27,961 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\ijinit1_6ecbgygya2qnvog4pv8w78z9n
+2018-12-27 20:56:27,961 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\ijinit1_6ecbgygya2qnvog4pv8w78z9n\98qq7q87vloo076yfqzlxugnu
+2018-12-27 20:56:27,970 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\ijinit1_6ecbgygya2qnvog4pv8w78z9n\98qq7q87vloo076yfqzlxugnu\cp_init1efd45104ffa2d33563b85b9edda76e3
+2018-12-27 20:56:27,979 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\ijinit1_6ecbgygya2qnvog4pv8w78z9n\98qq7q87vloo076yfqzlxugnu\cp_init1efd45104ffa2d33563b85b9edda76e3\classes
+2018-12-27 20:56:27,993 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\ijinit1_6ecbgygya2qnvog4pv8w78z9n\98qq7q87vloo076yfqzlxugnu\cp_init1efd45104ffa2d33563b85b9edda76e3\metadata
+2018-12-27 20:56:27,995 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\ijinit1_6ecbgygya2qnvog4pv8w78z9n\98qq7q87vloo076yfqzlxugnu\init0d6934565686b47a36d7dcc492aae3b0
+2018-12-27 20:56:27,999 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\ijinit1_6ecbgygya2qnvog4pv8w78z9n\98qq7q87vloo076yfqzlxugnu\init0d6934565686b47a36d7dcc492aae3b0\classes
+2018-12-27 20:56:27,999 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\ijinit1_6ecbgygya2qnvog4pv8w78z9n\98qq7q87vloo076yfqzlxugnu\init0d6934565686b47a36d7dcc492aae3b0\metadata
+2018-12-27 20:56:27,999 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\settings_7t6zffywrzezit8jcyemuyttl
+2018-12-27 20:56:28,011 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\settings_7t6zffywrzezit8jcyemuyttl\75m1ojola3xee6bl95bu05hjo
+2018-12-27 20:56:28,024 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\settings_7t6zffywrzezit8jcyemuyttl\75m1ojola3xee6bl95bu05hjo\cp_settings1efd45104ffa2d33563b85b9edda76e3
+2018-12-27 20:56:28,024 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\settings_7t6zffywrzezit8jcyemuyttl\75m1ojola3xee6bl95bu05hjo\cp_settings1efd45104ffa2d33563b85b9edda76e3\classes
+2018-12-27 20:56:28,024 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\settings_7t6zffywrzezit8jcyemuyttl\75m1ojola3xee6bl95bu05hjo\cp_settings1efd45104ffa2d33563b85b9edda76e3\metadata
+2018-12-27 20:56:28,043 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\settings_7t6zffywrzezit8jcyemuyttl\75m1ojola3xee6bl95bu05hjo\settings1efd45104ffa2d33563b85b9edda76e3
+2018-12-27 20:56:28,050 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\settings_7t6zffywrzezit8jcyemuyttl\75m1ojola3xee6bl95bu05hjo\settings1efd45104ffa2d33563b85b9edda76e3\classes
+2018-12-27 20:56:28,050 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\settings_7t6zffywrzezit8jcyemuyttl\75m1ojola3xee6bl95bu05hjo\settings1efd45104ffa2d33563b85b9edda76e3\metadata
+2018-12-27 20:56:28,053 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\settings_btiwqd3oe6ria1i2abd4ycd8l
+2018-12-27 20:56:28,061 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\settings_btiwqd3oe6ria1i2abd4ycd8l\75m1ojola3xee6bl95bu05hjo
+2018-12-27 20:56:28,062 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\settings_btiwqd3oe6ria1i2abd4ycd8l\75m1ojola3xee6bl95bu05hjo\cp_settings1efd45104ffa2d33563b85b9edda76e3
+2018-12-27 20:56:28,068 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\settings_btiwqd3oe6ria1i2abd4ycd8l\75m1ojola3xee6bl95bu05hjo\cp_settings1efd45104ffa2d33563b85b9edda76e3\classes
+2018-12-27 20:56:28,072 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\settings_btiwqd3oe6ria1i2abd4ycd8l\75m1ojola3xee6bl95bu05hjo\cp_settings1efd45104ffa2d33563b85b9edda76e3\metadata
+2018-12-27 20:56:28,081 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\settings_btiwqd3oe6ria1i2abd4ycd8l\75m1ojola3xee6bl95bu05hjo\settings1efd45104ffa2d33563b85b9edda76e3
+2018-12-27 20:56:28,082 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\settings_btiwqd3oe6ria1i2abd4ycd8l\75m1ojola3xee6bl95bu05hjo\settings1efd45104ffa2d33563b85b9edda76e3\classes
+2018-12-27 20:56:28,088 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\settings_btiwqd3oe6ria1i2abd4ycd8l\75m1ojola3xee6bl95bu05hjo\settings1efd45104ffa2d33563b85b9edda76e3\metadata
+2018-12-27 20:56:28,091 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\settings_bw79r2wi9esyhv0w8iiymgfui
+2018-12-27 20:56:28,124 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\settings_bw79r2wi9esyhv0w8iiymgfui\75m1ojola3xee6bl95bu05hjo
+2018-12-27 20:56:28,129 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\settings_bw79r2wi9esyhv0w8iiymgfui\75m1ojola3xee6bl95bu05hjo\cp_settings1efd45104ffa2d33563b85b9edda76e3
+2018-12-27 20:56:28,131 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\settings_bw79r2wi9esyhv0w8iiymgfui\75m1ojola3xee6bl95bu05hjo\cp_settings1efd45104ffa2d33563b85b9edda76e3\classes
+2018-12-27 20:56:28,134 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\settings_bw79r2wi9esyhv0w8iiymgfui\75m1ojola3xee6bl95bu05hjo\cp_settings1efd45104ffa2d33563b85b9edda76e3\metadata
+2018-12-27 20:56:28,139 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\settings_bw79r2wi9esyhv0w8iiymgfui\75m1ojola3xee6bl95bu05hjo\settings1efd45104ffa2d33563b85b9edda76e3
+2018-12-27 20:56:28,143 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\settings_bw79r2wi9esyhv0w8iiymgfui\75m1ojola3xee6bl95bu05hjo\settings1efd45104ffa2d33563b85b9edda76e3\classes
+2018-12-27 20:56:28,146 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\3.3\scripts-remapped\settings_bw79r2wi9esyhv0w8iiymgfui\75m1ojola3xee6bl95bu05hjo\settings1efd45104ffa2d33563b85b9edda76e3\metadata
+2018-12-27 20:56:28,222 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\.gradle\caches\jars-1
+2018-12-27 20:56:30,096 INFO FileWacherService.Service1 - Created D:\Users\Pawel\New Text Document.txt
+2018-12-27 20:56:30,096 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\New Text Document.txt
+2018-12-27 20:56:32,875 INFO FileWacherService.Service1 - Renamed: New Text Document.txt to: D:\Users\Pawel\dww.txt
+2018-12-27 21:01:25,911 INFO FileWacherService.Service1 - Service stopped
+2018-12-27 21:01:34,947 INFO FileWacherService.Service1 - FileSystemWatcher Service started
+2018-12-27 21:01:34,961 INFO FileWacherService.Service1 - Monitoring D:\Users\Pawel
+2018-12-27 21:01:56,447 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\dww.txt
+2018-12-27 21:02:00,164 DEBUG FileWacherService.Service1 - 1
+2018-12-27 21:02:00,164 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\dww.txt
+2018-12-27 21:02:00,164 DEBUG FileWacherService.Service1 - 2
+2018-12-27 21:03:46,855 INFO FileWacherService.Service1 - Service stopped
+2018-12-27 21:03:55,684 INFO FileWacherService.Service1 - FileSystemWatcher Service started
+2018-12-27 21:03:55,697 INFO FileWacherService.Service1 - Monitoring D:\Users\Pawel
+2018-12-27 21:04:00,794 INFO FileWacherService.Service1 - Deleted D:\Users\Pawel\dww.txt
+2018-12-27 21:04:04,795 DEBUG FileWacherService.Service1 - Operations counter: 1
+2018-12-27 21:56:14,432 INFO FileWacherService.Service1 - Service stopped
+2018-12-27 21:58:26,923 INFO FileWacherService.Service1 - FileSystemWatcher Service started
+2018-12-27 21:58:26,942 INFO FileWacherService.Service1 - Monitoring D:\Users\Pawel
+2018-12-27 22:01:55,990 INFO FileWacherService.Service1 - Service stopped
+2018-12-27 22:02:10,465 INFO FileWacherService.Service1 - FileSystemWatcher Service started
+2018-12-27 22:02:10,600 ERROR FileWacherService.Service1 - Exception: The queue does not exist or you do not have sufficient permissions to perform the operation.
+2018-12-27 22:02:15,048 INFO FileWacherService.Service1 - Monitoring D:\Users\Pawel
+2018-12-27 22:03:41,615 INFO FileWacherService.Service1 - Service stopped
+2018-12-27 22:05:27,788 INFO FileWacherService.Service1 - FileSystemWatcher Service started
+2018-12-27 22:05:27,916 ERROR FileWacherService.Service1 - Exception: The queue does not exist or you do not have sufficient permissions to perform the operation.
+2018-12-27 22:05:27,927 INFO FileWacherService.Service1 - Monitoring D:\Users\Pawel
+2018-12-27 22:06:28,992 INFO FileWacherService.Service1 - Service stopped
+2018-12-27 22:07:19,260 INFO FileWacherService.Service1 - FileSystemWatcher Service started
+2018-12-27 22:07:19,327 INFO FileWacherService.Service1 - Monitoring D:\Users\Pawel
+2018-12-27 22:17:14,017 INFO FileWacherService.Service1 - Service stopped
+2018-12-27 22:19:09,530 INFO FileWacherService.Service1 - FileSystemWatcher Service started
+2018-12-27 22:19:09,570 INFO FileWacherService.Service1 - Monitoring D:\Users\Pawel
+2018-12-27 22:21:07,643 INFO FileWacherService.Service1 - Service stopped
+2018-12-27 22:21:16,556 INFO FileWacherService.Service1 - FileSystemWatcher Service started
+2018-12-27 22:21:16,591 INFO FileWacherService.Service1 - Monitoring D:\Users\Pawel
+2018-12-27 22:27:49,813 INFO FileWacherService.Service1 - Created D:\Users\Pawel\New Text Document.txt
+2018-12-27 22:27:54,182 DEBUG FileWacherService.Service1 - Operations counter: 1
+2018-12-27 22:27:54,185 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\New Text Document.txt
+2018-12-27 22:27:54,185 DEBUG FileWacherService.Service1 - Operations counter: 2
+2018-12-27 22:28:01,441 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\New Text Document.txt
+2018-12-27 22:28:01,442 DEBUG FileWacherService.Service1 - Operations counter: 3
+2018-12-27 22:28:01,445 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\New Text Document.txt
+2018-12-27 22:28:01,446 DEBUG FileWacherService.Service1 - Operations counter: 4
+2018-12-27 22:31:55,266 INFO FileWacherService.Service1 - Service stopped
+2018-12-27 22:32:06,840 INFO FileWacherService.Service1 - FileSystemWatcher Service started
+2018-12-27 22:32:06,884 INFO FileWacherService.Service1 - Monitoring D:\Users\Pawel
+2018-12-27 22:36:41,029 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\AppData
+2018-12-27 22:36:45,068 DEBUG FileWacherService.Service1 - Operations counter: 1
+2018-12-27 22:36:45,078 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\AppData\Local
+2018-12-27 22:36:45,078 DEBUG FileWacherService.Service1 - Operations counter: 2
+2018-12-27 22:36:45,084 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\AppData\Local\Temp
+2018-12-27 22:36:45,085 DEBUG FileWacherService.Service1 - Operations counter: 3
+2018-12-27 22:36:45,091 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\New Text Document.txt
+2018-12-27 22:36:45,092 DEBUG FileWacherService.Service1 - Operations counter: 4
+2018-12-27 22:36:45,114 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\New Text Document.txt
+2018-12-27 22:36:45,115 DEBUG FileWacherService.Service1 - Operations counter: 5
+2018-12-27 22:36:45,122 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\New Text Document.txt
+2018-12-27 22:36:45,122 DEBUG FileWacherService.Service1 - Operations counter: 6
+2018-12-27 22:36:45,138 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\New Text Document.txt
+2018-12-27 22:36:45,141 DEBUG FileWacherService.Service1 - Operations counter: 7
+2018-12-27 22:42:07,784 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\New Text Document.txt
+2018-12-27 22:42:07,786 DEBUG FileWacherService.Service1 - Operations counter: 8
+2018-12-27 22:42:07,796 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\New Text Document.txt
+2018-12-27 22:42:07,797 DEBUG FileWacherService.Service1 - Operations counter: 9
+2018-12-27 22:52:58,737 INFO FileWacherService.Service1 - Created D:\Users\Pawel\New Text Document (2).txt
+2018-12-27 22:52:58,737 DEBUG FileWacherService.Service1 - Operations counter: 10
+2018-12-27 22:52:58,746 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\New Text Document (2).txt
+2018-12-27 22:52:58,746 DEBUG FileWacherService.Service1 - Operations counter: 11
+2018-12-27 22:53:17,707 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\New Text Document (2).txt
+2018-12-27 22:53:17,708 DEBUG FileWacherService.Service1 - Operations counter: 12
+2018-12-27 22:53:17,712 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\New Text Document (2).txt
+2018-12-27 22:53:17,712 DEBUG FileWacherService.Service1 - Operations counter: 13
+2018-12-27 22:53:18,740 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\New Text Document (2).txt
+2018-12-27 22:53:18,741 DEBUG FileWacherService.Service1 - Operations counter: 14
+2018-12-27 22:53:18,745 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\New Text Document (2).txt
+2018-12-27 22:53:18,746 DEBUG FileWacherService.Service1 - Operations counter: 15
+2018-12-27 22:53:33,162 INFO FileWacherService.Service1 - Service stopped
+2018-12-27 22:53:50,432 INFO FileWacherService.Service1 - FileSystemWatcher Service started
+2018-12-27 22:53:50,463 INFO FileWacherService.Service1 - Monitoring D:\Users\Pawel
+2018-12-27 22:54:05,103 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\New Text Document (2).txt
+2018-12-27 22:54:08,500 DEBUG FileWacherService.Service1 - Operations counter: 1
+2018-12-27 22:54:08,504 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\New Text Document (2).txt
+2018-12-27 22:54:08,504 DEBUG FileWacherService.Service1 - Operations counter: 2
+2018-12-27 23:03:47,441 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\New Text Document.txt
+2018-12-27 23:03:47,441 DEBUG FileWacherService.Service1 - Operations counter: 3
+2018-12-27 23:03:47,446 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\New Text Document.txt
+2018-12-27 23:03:47,446 DEBUG FileWacherService.Service1 - Operations counter: 4
+2018-12-27 23:04:42,645 INFO FileWacherService.Service1 - Service stopped
+2018-12-27 23:04:45,724 INFO FileWacherService.Service1 - FileSystemWatcher Service started
+2018-12-27 23:04:45,766 INFO FileWacherService.Service1 - Monitoring D:\Users\Pawel
+2018-12-27 23:07:25,416 INFO FileWacherService.Service1 - Service stopped
+2018-12-27 23:07:26,897 INFO FileWacherService.Service1 - FileSystemWatcher Service started
+2018-12-27 23:07:26,929 INFO FileWacherService.Service1 - Monitoring D:\Users\Pawel
+2018-12-28 12:54:46,228 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\New Text Document.txt
+2018-12-28 12:54:51,705 DEBUG FileWacherService.Service1 - Operations counter: 1
+2018-12-28 12:54:51,746 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\New Text Document.txt
+2018-12-28 12:54:51,747 DEBUG FileWacherService.Service1 - Operations counter: 2
+2018-12-28 12:55:01,281 INFO FileWacherService.Service1 - Service stopped
+2018-12-28 12:55:03,211 INFO FileWacherService.Service1 - FileSystemWatcher Service started
+2018-12-28 12:55:03,342 INFO FileWacherService.Service1 - Monitoring D:\Users\Pawel
+2018-12-28 12:56:14,657 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\New Text Document.txt
+2018-12-28 12:56:16,603 DEBUG FileWacherService.Service1 - Operations counter: 1
+2018-12-28 12:56:16,678 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\New Text Document.txt
+2018-12-28 12:56:16,679 DEBUG FileWacherService.Service1 - Operations counter: 2
+2018-12-28 12:59:07,229 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\New Text Document (2).txt
+2018-12-28 12:59:07,232 DEBUG FileWacherService.Service1 - Operations counter: 3
+2018-12-28 12:59:07,245 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\New Text Document (2).txt
+2018-12-28 12:59:07,246 DEBUG FileWacherService.Service1 - Operations counter: 4
+2018-12-28 13:04:53,419 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\New Text Document.txt
+2018-12-28 13:04:53,421 DEBUG FileWacherService.Service1 - Operations counter: 5
+2018-12-28 13:04:53,433 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\New Text Document.txt
+2018-12-28 13:04:53,434 DEBUG FileWacherService.Service1 - Operations counter: 6
+2018-12-28 13:10:42,431 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\New Text Document (2).txt
+2018-12-28 13:10:42,432 DEBUG FileWacherService.Service1 - Operations counter: 7
+2018-12-28 13:10:42,444 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\New Text Document (2).txt
+2018-12-28 13:10:42,446 DEBUG FileWacherService.Service1 - Operations counter: 8
+2018-12-28 13:11:32,487 INFO FileWacherService.Service1 - Created D:\Users\Pawel\New Text Document (3).txt
+2018-12-28 13:11:32,488 DEBUG FileWacherService.Service1 - Operations counter: 9
+2018-12-28 13:11:32,501 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\New Text Document (3).txt
+2018-12-28 13:11:32,502 DEBUG FileWacherService.Service1 - Operations counter: 10
+2018-12-28 13:17:53,346 INFO FileWacherService.Service1 - Service stopped
+2018-12-28 13:17:55,063 INFO FileWacherService.Service1 - FileSystemWatcher Service started
+2018-12-28 13:17:55,104 INFO FileWacherService.Service1 - Monitoring D:\Users\Pawel
+2018-12-28 13:18:05,877 INFO FileWacherService.Service1 - Deleted D:\Users\Pawel\New Text Document (3).txt
+2018-12-28 13:18:09,840 DEBUG FileWacherService.Service1 - Operations counter: 1
+2018-12-28 13:21:54,953 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\New Text Document.txt
+2018-12-28 13:21:54,955 DEBUG FileWacherService.Service1 - Operations counter: 2
+2018-12-28 13:21:54,970 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\New Text Document.txt
+2018-12-28 13:21:54,971 DEBUG FileWacherService.Service1 - Operations counter: 3
+2018-12-28 13:25:26,487 INFO FileWacherService.Service1 - Service stopped
+2018-12-28 13:25:36,259 INFO FileWacherService.Service1 - FileSystemWatcher Service started
+2018-12-28 13:25:36,318 INFO FileWacherService.Service1 - Monitoring D:\Users\Pawel
+2018-12-28 13:34:12,227 INFO FileWacherService.Service1 - Service stopped
+2018-12-28 13:35:39,597 INFO FileWacherService.Service1 - FileSystemWatcher Service started
+2018-12-28 13:35:39,652 INFO FileWacherService.Service1 - Monitoring D:\Users\Pawel
+2018-12-28 13:36:06,939 ERROR FileWacherService.Service1 - Cannot deserialize the message passed as an argument. Cannot recognize the serialization format.
+2018-12-28 13:43:00,475 ERROR FileWacherService.Service1 - Cannot deserialize the message passed as an argument. Cannot recognize the serialization format.
+2018-12-28 13:43:33,002 INFO FileWacherService.Service1 - Created D:\Users\Pawel\New Text Document (3).txt
+2018-12-28 13:43:34,571 DEBUG FileWacherService.Service1 - Operations counter: 1
+2018-12-28 13:43:34,578 INFO FileWacherService.Service1 - Changed D:\Users\Pawel\New Text Document (3).txt
+2018-12-28 13:43:34,579 DEBUG FileWacherService.Service1 - Operations counter: 2
+2018-12-28 13:45:16,820 INFO FileWacherService.Service1 - Service stopped
+2018-12-28 13:45:26,622 INFO FileWacherService.Service1 - FileSystemWatcher Service started
+2018-12-28 13:45:26,660 INFO FileWacherService.Service1 - Monitoring D:\Users\Pawel
+2018-12-29 13:39:17,072 INFO FileWacherService.Service1 - FileSystemWatcher Service started
+2018-12-29 13:39:17,699 INFO FileWacherService.Service1 - Monitoring D:\Users\Pawel

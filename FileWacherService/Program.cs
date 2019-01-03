@@ -12,12 +12,12 @@ namespace FileWacherService
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
-        static void Main()
+        static void Main(string[] args)
         {
             ServiceBase[] ServicesToRun;
             ServicesToRun = new ServiceBase[]
             {
-                new Service1()
+                new Service1(args)
             };
             ServiceBase.Run(ServicesToRun);
         }
